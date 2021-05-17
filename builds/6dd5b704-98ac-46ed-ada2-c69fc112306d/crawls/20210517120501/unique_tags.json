@@ -1,0 +1,19 @@
+[
+    "XCUIElementTypeAlert", 
+    "XCUIElementTypeApplication", 
+    "XCUIElementTypeButton", 
+    "XCUIElementTypeCell", 
+    "XCUIElementTypeCollectionView", 
+    "XCUIElementTypeImage", 
+    "XCUIElementTypeLink", 
+    "XCUIElementTypeNavigationBar", 
+    "XCUIElementTypeOther", 
+    "XCUIElementTypeScrollView", 
+    "XCUIElementTypeStaticText", 
+    "XCUIElementTypeStatusBar", 
+    "XCUIElementTypeTabBar", 
+    "XCUIElementTypeTextField", 
+    "XCUIElementTypeTextView", 
+    "XCUIElementTypeWindow", 
+    "TemplateMatchElement"
+]

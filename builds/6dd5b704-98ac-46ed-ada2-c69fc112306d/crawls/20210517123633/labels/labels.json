@@ -1,0 +1,20 @@
+{
+    "elems": {
+        "iter_00000_step_00001_10_XCUIElementTypeOther.png": [
+            "btn_menu_pre_login"
+        ], 
+        "iter_00000_step_00003_20_XCUIElementTypeStaticText.png": [
+            "txt_sign_up_log_in"
+        ], 
+        "iter_00000_step_00005_151_XCUIElementTypeButton.png": [
+            "btn_already_redditor_log_in"
+        ], 
+        "iter_00000_step_00007_162_XCUIElementTypeTextField.png": [
+            "inp_username"
+        ], 
+        "iter_00000_step_00007_163_XCUIElementTypeSecureTextField.png": [
+            "inp_password"
+        ]
+    }, 
+    "screens": {}
+}

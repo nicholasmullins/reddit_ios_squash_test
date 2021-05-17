@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XCUIElementTypeApplication type="XCUIElementTypeApplication" name="Reddit" label="Reddit" enabled="true" accessible="false" x="0" y="0" width="375" height="812" index="0">
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" accessible="false" x="0" y="0" width="375" height="812" index="0">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="0" width="375" height="812" index="0">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="0" width="375" height="812" index="0">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="0" width="375" height="812" index="0">
+          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="0" width="375" height="812" index="0">
+            <XCUIElementTypeNavigationBar type="XCUIElementTypeNavigationBar" name="UIAlert" enabled="true" accessible="false" x="0" y="44" width="375" height="44" index="0">
+              <XCUIElementTypeButton type="XCUIElementTypeButton" name="Skip" label="Skip" enabled="true" accessible="true" x="324" y="44" width="43" height="44" index="0"/>
+            </XCUIElementTypeNavigationBar>
+            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="0" width="375" height="812" index="1">
+              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="0" width="375" height="812" index="0">
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="0" width="375" height="812" index="0">
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="0" width="375" height="812" index="0">
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="0" width="375" height="812" index="0"/>
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="0" width="375" height="812" index="1"/>
+                  </XCUIElementTypeOther>
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="0" width="375" height="812" index="1">
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="8" y="523" width="359" height="259" index="0">
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="8" y="523" width="359" height="259" index="0">
+                        <XCUIElementTypeTextView type="XCUIElementTypeTextView" value="By continuing, you agree to our User Agreement and Privacy Policy." enabled="true" accessible="false" x="56" y="523" width="263" height="53" index="0">
+                          <XCUIElementTypeTextView type="XCUIElementTypeTextView" name="By continuing, you agree to our User Agreement and Privacy Policy." label="By continuing, you agree to our User Agreement and Privacy Policy." enabled="true" accessible="true" x="61" y="531" width="253" height="37" index="0">
+                            <XCUIElementTypeLink type="XCUIElementTypeLink" name="User Agreement" label="User Agreement" enabled="true" accessible="false" x="61" y="531" width="253" height="37" index="0"/>
+                            <XCUIElementTypeLink type="XCUIElementTypeLink" name="Privacy Policy" label="Privacy Policy" enabled="true" accessible="false" x="191" y="549" width="101" height="19" index="1"/>
+                          </XCUIElementTypeTextView>
+                        </XCUIElementTypeTextView>
+                        <XCUIElementTypeButton type="XCUIElementTypeButton" name="Continue with Google" label="Continue with Google" enabled="true" accessible="true" x="48" y="583" width="279" height="49" index="1">
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Continue with Google" name="Continue with Google" label="Continue with Google" enabled="true" accessible="false" x="112" y="597" width="176" height="21" index="0"/>
+                        </XCUIElementTypeButton>
+                        <XCUIElementTypeButton type="XCUIElementTypeButton" name="Continue with Apple" label="Continue with Apple" enabled="true" accessible="true" x="48" y="639" width="279" height="49" index="2">
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Continue with Apple" name="Continue with Apple" label="Continue with Apple" enabled="true" accessible="false" x="117" y="653" width="166" height="21" index="0"/>
+                        </XCUIElementTypeButton>
+                        <XCUIElementTypeButton type="XCUIElementTypeButton" name="Continue with Email" label="Continue with Email" enabled="true" accessible="true" x="48" y="695" width="279" height="49" index="3">
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Continue with Email" name="Continue with Email" label="Continue with Email" enabled="true" accessible="false" x="120" y="709" width="163" height="21" index="0"/>
+                        </XCUIElementTypeButton>
+                        <XCUIElementTypeButton type="XCUIElementTypeButton" name="Already a redditor? Log In" label="Already a redditor? Log In" enabled="true" accessible="true" x="98" y="751" width="179" height="31" index="4">
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Already a redditor? Log In" name="Already a redditor? Log In" label="Already a redditor? Log In" enabled="true" accessible="false" x="98" y="757" width="179" height="19" index="0"/>
+                        </XCUIElementTypeButton>
+                      </XCUIElementTypeOther>
+                    </XCUIElementTypeOther>
+                  </XCUIElementTypeOther>
+                  <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" accessible="false" x="161" y="100" width="53" height="52" index="2"/>
+                </XCUIElementTypeOther>
+              </XCUIElementTypeOther>
+            </XCUIElementTypeOther>
+          </XCUIElementTypeOther>
+        </XCUIElementTypeOther>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeOther>
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="0" width="375" height="812" index="1">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="0" width="375" height="812" index="0"/>
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="0" width="375" height="812" index="1"/>
+      <XCUIElementTypeAlert type="XCUIElementTypeAlert" name="Please turn on notifications" label="Please turn on notifications" enabled="true" accessible="false" x="52" y="334" width="271" height="157" index="2">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="52" y="334" width="271" height="157" index="0">
+          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="52" y="334" width="271" height="157" index="0">
+            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="52" y="334" width="271" height="157" index="0">
+              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="52" y="334" width="271" height="157" index="0">
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="52" y="334" width="271" height="157" index="0"/>
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="52" y="334" width="271" height="157" index="1"/>
+              </XCUIElementTypeOther>
+            </XCUIElementTypeOther>
+            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="52" y="334" width="271" height="157" index="1">
+              <XCUIElementTypeScrollView type="XCUIElementTypeScrollView" enabled="true" accessible="false" x="52" y="334" width="271" height="113" index="0">
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="52" y="334" width="271" height="113" index="0">
+                  <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Please turn on notifications" name="Please turn on notifications" label="Please turn on notifications" enabled="true" accessible="true" x="68" y="354" width="239" height="21" index="0"/>
+                  <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Get notified of the best content for you, as well as replies to your posts and comments." name="Get notified of the best content for you, as well as replies to your posts and comments." label="Get notified of the best content for you, as well as replies to your posts and comments." enabled="true" accessible="true" x="68" y="378" width="239" height="48" index="1"/>
+                </XCUIElementTypeOther>
+                <XCUIElementTypeOther type="XCUIElementTypeOther" value="0%" name="Vertical scroll bar, 1 page" label="Vertical scroll bar, 1 page" enabled="true" accessible="false" x="289" y="334" width="31" height="113" index="1"/>
+                <XCUIElementTypeOther type="XCUIElementTypeOther" value="0%" name="Horizontal scroll bar, 1 page" label="Horizontal scroll bar, 1 page" enabled="true" accessible="false" x="52" y="413" width="271" height="31" index="2"/>
+              </XCUIElementTypeScrollView>
+              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="52" y="446" width="271" height="1" index="1">
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="52" y="446" width="271" height="1" index="0">
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="52" y="446" width="271" height="1" index="0"/>
+                </XCUIElementTypeOther>
+              </XCUIElementTypeOther>
+              <XCUIElementTypeScrollView type="XCUIElementTypeScrollView" enabled="true" accessible="false" x="52" y="446" width="271" height="45" index="2">
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="52" y="446" width="271" height="45" index="0">
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="52" y="446" width="271" height="45" index="0">
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="52" y="446" width="136" height="45" index="0">
+                      <XCUIElementTypeButton type="XCUIElementTypeButton" name="Not now" label="Not now" enabled="true" accessible="true" x="52" y="446" width="136" height="45" index="0"/>
+                    </XCUIElementTypeOther>
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="187" y="446" width="1" height="45" index="1">
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="187" y="446" width="1" height="45" index="0">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="187" y="446" width="1" height="45" index="0"/>
+                      </XCUIElementTypeOther>
+                    </XCUIElementTypeOther>
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="188" y="446" width="135" height="45" index="2">
+                      <XCUIElementTypeButton type="XCUIElementTypeButton" name="OK" label="OK" enabled="true" accessible="true" x="188" y="446" width="135" height="45" index="0"/>
+                    </XCUIElementTypeOther>
+                  </XCUIElementTypeOther>
+                </XCUIElementTypeOther>
+                <XCUIElementTypeOther type="XCUIElementTypeOther" value="0%" name="Vertical scroll bar, 1 page" label="Vertical scroll bar, 1 page" enabled="true" accessible="false" x="289" y="446" width="31" height="45" index="1"/>
+                <XCUIElementTypeOther type="XCUIElementTypeOther" value="0%" name="Horizontal scroll bar, 1 page" label="Horizontal scroll bar, 1 page" enabled="true" accessible="false" x="52" y="465" width="271" height="23" index="2"/>
+              </XCUIElementTypeScrollView>
+            </XCUIElementTypeOther>
+          </XCUIElementTypeOther>
+        </XCUIElementTypeOther>
+      </XCUIElementTypeAlert>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+</XCUIElementTypeApplication>

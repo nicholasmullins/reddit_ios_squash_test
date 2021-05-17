@@ -1,0 +1,21 @@
+[
+    "XCUIElementTypeApplication", 
+    "XCUIElementTypeButton", 
+    "XCUIElementTypeCell", 
+    "XCUIElementTypeCollectionView", 
+    "XCUIElementTypeImage", 
+    "XCUIElementTypeKey", 
+    "XCUIElementTypeKeyboard", 
+    "XCUIElementTypeLink", 
+    "XCUIElementTypeNavigationBar", 
+    "XCUIElementTypeOther", 
+    "XCUIElementTypeScrollView", 
+    "XCUIElementTypeSecureTextField", 
+    "XCUIElementTypeSheet", 
+    "XCUIElementTypeStaticText", 
+    "XCUIElementTypeTabBar", 
+    "XCUIElementTypeTextField", 
+    "XCUIElementTypeTextView", 
+    "XCUIElementTypeWindow", 
+    "TemplateMatchElement"
+]

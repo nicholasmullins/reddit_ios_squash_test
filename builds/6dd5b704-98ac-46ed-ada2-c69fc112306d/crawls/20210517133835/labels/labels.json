@@ -1,0 +1,30 @@
+{
+    "elems": {
+        "iter_00000_step_00001_128_XCUIElementTypeStaticText.png": [
+            "tab_about"
+        ], 
+        "iter_00000_step_00006_124_XCUIElementTypeStaticText.png": [
+            "tab_about"
+        ], 
+        "iter_00000_step_00010_10_XCUIElementTypeOther.png": [
+            "btn_menu_pre_login", 
+            "btn_menu"
+        ], 
+        "iter_00000_step_00010_126_XCUIElementTypeButton.png": [
+            "icn_home"
+        ], 
+        "iter_00000_step_00010_127_XCUIElementTypeButton.png": [
+            "icn_communities"
+        ], 
+        "iter_00000_step_00010_128_XCUIElementTypeButton.png": [
+            "icn_create_post"
+        ], 
+        "iter_00000_step_00010_17_XCUIElementTypeTextField.png": [
+            "inp_search"
+        ], 
+        "iter_00000_step_00011_20_XCUIElementTypeStaticText.png": [
+            "txt_sign_up_log_in"
+        ]
+    }, 
+    "screens": {}
+}

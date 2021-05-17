@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XCUIElementTypeApplication type="XCUIElementTypeApplication" name="Reddit" label="Reddit" enabled="true" accessible="false" x="0" y="0" width="375" height="812" index="0">
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" accessible="false" x="0" y="0" width="375" height="812" index="0">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="0" width="375" height="812" index="0">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="0" width="375" height="812" index="0">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="0" width="375" height="812" index="0">
+          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="0" width="375" height="812" index="0">
+            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="0" width="375" height="812" index="0">
+              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="0" width="375" height="812" index="0">
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="0" width="375" height="812" index="0">
+                  <XCUIElementTypeNavigationBar type="XCUIElementTypeNavigationBar" name="CommunityTabView" enabled="true" accessible="false" x="0" y="44" width="375" height="44" index="0">
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" name="User profile drawer" label="User profile drawer" enabled="true" accessible="true" x="16" y="44" width="32" height="44" index="0"/>
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="54" y="44" width="275" height="44" index="1">
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="54" y="44" width="275" height="44" index="0">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="54" y="50" width="275" height="32" index="0">
+                          <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" accessible="false" x="62" y="58" width="16" height="16" index="0"/>
+                          <XCUIElementTypeTextField type="XCUIElementTypeTextField" label="" enabled="true" accessible="true" x="82" y="50" width="235" height="32" index="1"/>
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Search" name="Search" label="Search" enabled="true" accessible="true" x="86" y="57" width="235" height="18" index="2"/>
+                        </XCUIElementTypeOther>
+                      </XCUIElementTypeOther>
+                    </XCUIElementTypeOther>
+                    <XCUIElementTypeButton type="XCUIElementTypeButton" name="coin 24" label="coin 24" enabled="true" accessible="true" x="335" y="54" width="24" height="24" index="2"/>
+                  </XCUIElementTypeNavigationBar>
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="0" width="375" height="812" index="1">
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="0" width="375" height="812" index="0">
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="0" width="375" height="812" index="0">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="0" width="375" height="88" index="0"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="0" width="375" height="812" index="1">
+                          <XCUIElementTypeScrollView type="XCUIElementTypeScrollView" enabled="true" accessible="false" x="0" y="0" width="375" height="812" index="0">
+                            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="0" width="375" height="812" index="0">
+                              <XCUIElementTypeTable type="XCUIElementTypeTable" enabled="true" accessible="false" x="0" y="0" width="375" height="812" index="0">
+                                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="-117" width="375" height="0" index="0"/>
+                                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="-117" width="375" height="0" index="1"/>
+                                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="91" width="375" height="0" index="2"/>
+                                <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" accessible="true" x="0" y="-117" width="375" height="52" index="3">
+                                  <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Explore by topic" name="Explore by topic" label="Explore by topic" enabled="true" accessible="true" x="64" y="-90" width="95" height="16" index="0"/>
+                                  <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Browse communities" name="Browse communities" label="Browse communities" enabled="true" accessible="true" x="64" y="-108" width="150" height="19" index="1"/>
+                                </XCUIElementTypeCell>
+                                <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" accessible="true" x="0" y="-65" width="375" height="52" index="4">
+                                  <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="The hottest posts on the Internet" name="The hottest posts on the Internet" label="The hottest posts on the Internet" enabled="true" accessible="true" x="64" y="-38" width="193" height="16" index="0"/>
+                                  <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Popular" name="Popular" label="Popular" enabled="true" accessible="true" x="64" y="-56" width="56" height="19" index="1"/>
+                                </XCUIElementTypeCell>
+                                <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" accessible="true" x="0" y="-13" width="375" height="52" index="5">
+                                  <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Even more top posts on Reddit" name="Even more top posts on Reddit" label="Even more top posts on Reddit" enabled="true" accessible="true" x="64" y="14" width="180" height="16" index="0"/>
+                                  <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="All" name="All" label="All" enabled="true" accessible="true" x="64" y="-4" width="19" height="19" index="1"/>
+                                </XCUIElementTypeCell>
+                                <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" accessible="true" x="0" y="39" width="375" height="52" index="6">
+                                  <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Reddit Public Access Network" name="Reddit Public Access Network" label="Reddit Public Access Network" enabled="true" accessible="true" x="64" y="66" width="176" height="16" index="0"/>
+                                  <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="RPAN" name="RPAN" label="RPAN" enabled="true" accessible="true" x="64" y="48" width="42" height="19" index="1"/>
+                                </XCUIElementTypeCell>
+                                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="91" width="375" height="0" index="7"/>
+                                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="91" width="375" height="0" index="8"/>
+                                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="91" width="375" height="0" index="9"/>
+                                <XCUIElementTypeOther type="XCUIElementTypeOther" name="MODERATING" enabled="true" accessible="false" x="0" y="132" width="375" height="41" index="10">
+                                  <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MODERATING" name="MODERATING" label="MODERATING" enabled="true" accessible="true" x="20" y="91" width="335" height="41" index="0"/>
+                                </XCUIElementTypeOther>
+                                <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" accessible="true" x="0" y="132" width="375" height="40" index="11">
+                                  <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Mod" name="Mod" label="Mod" enabled="true" accessible="true" x="64" y="143" width="32" height="18" index="0"/>
+                                </XCUIElementTypeCell>
+                                <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" accessible="true" x="0" y="172" width="375" height="40" index="12">
+                                  <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="r/LssAutomation" name="r/LssAutomation" label="r/LssAutomation" enabled="true" accessible="true" x="64" y="183" width="118" height="18" index="0"/>
+                                </XCUIElementTypeCell>
+                                <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" accessible="true" x="0" y="212" width="375" height="40" index="13">
+                                  <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="r/Lsstesting" name="r/Lsstesting" label="r/Lsstesting" enabled="true" accessible="true" x="64" y="223" width="85" height="18" index="0"/>
+                                </XCUIElementTypeCell>
+                                <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" accessible="true" x="0" y="252" width="375" height="40" index="14">
+                                  <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="r/Lsstesting2" name="r/Lsstesting2" label="r/Lsstesting2" enabled="true" accessible="true" x="64" y="263" width="94" height="18" index="0"/>
+                                </XCUIElementTypeCell>
+                                <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" accessible="true" x="0" y="292" width="375" height="40" index="15">
+                                  <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="u/lss_bvt_and_01" name="u/lss_bvt_and_01" label="u/lss_bvt_and_01" enabled="true" accessible="true" x="64" y="303" width="127" height="18" index="0"/>
+                                </XCUIElementTypeCell>
+                                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="332" width="375" height="0" index="16"/>
+                                <XCUIElementTypeOther type="XCUIElementTypeOther" name="MY COMMUNITIES" enabled="true" accessible="false" x="0" y="332" width="375" height="41" index="17">
+                                  <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MY COMMUNITIES" name="MY COMMUNITIES" label="MY COMMUNITIES" enabled="true" accessible="true" x="20" y="332" width="335" height="41" index="0"/>
+                                </XCUIElementTypeOther>
+                                <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" accessible="true" x="0" y="373" width="375" height="40" index="18">
+                                  <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Create a community" name="Create a community" label="Create a community" enabled="true" accessible="true" x="64" y="384" width="144" height="18" index="0"/>
+                                </XCUIElementTypeCell>
+                                <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" accessible="true" x="0" y="413" width="375" height="40" index="19">
+                                  <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="r/ahmedabad" name="r/ahmedabad" label="r/ahmedabad" enabled="true" accessible="true" x="64" y="424" width="95" height="18" index="0"/>
+                                  <XCUIElementTypeButton type="XCUIElementTypeButton" enabled="true" accessible="true" x="295" y="413" width="40" height="40" index="1">
+                                    <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" enabled="true" accessible="false" x="295" y="413" width="0" height="0" index="0"/>
+                                  </XCUIElementTypeButton>
+                                </XCUIElementTypeCell>
+                                <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" accessible="true" x="0" y="453" width="375" height="40" index="20">
+                                  <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="r/gif" name="r/gif" label="r/gif" enabled="true" accessible="true" x="64" y="464" width="29" height="18" index="0"/>
+                                  <XCUIElementTypeButton type="XCUIElementTypeButton" enabled="true" accessible="true" x="295" y="453" width="40" height="40" index="1">
+                                    <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" enabled="true" accessible="false" x="295" y="453" width="0" height="0" index="0"/>
+                                  </XCUIElementTypeButton>
+                                </XCUIElementTypeCell>
+                                <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" accessible="true" x="0" y="493" width="375" height="40" index="21">
+                                  <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="r/gifs" name="r/gifs" label="r/gifs" enabled="true" accessible="true" x="64" y="504" width="37" height="18" index="0"/>
+                                  <XCUIElementTypeButton type="XCUIElementTypeButton" enabled="true" accessible="true" x="295" y="493" width="40" height="40" index="1">
+                                    <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" enabled="true" accessible="false" x="295" y="493" width="0" height="0" index="0"/>
+                                  </XCUIElementTypeButton>
+                                </XCUIElementTypeCell>
+                                <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" accessible="true" x="0" y="533" width="375" height="40" index="22">
+                                  <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="r/LssAutomation" name="r/LssAutomation" label="r/LssAutomation" enabled="true" accessible="true" x="64" y="544" width="118" height="18" index="0"/>
+                                  <XCUIElementTypeButton type="XCUIElementTypeButton" enabled="true" accessible="true" x="295" y="533" width="40" height="40" index="1">
+                                    <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" enabled="true" accessible="false" x="295" y="533" width="0" height="0" index="0"/>
+                                  </XCUIElementTypeButton>
+                                </XCUIElementTypeCell>
+                                <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" accessible="true" x="0" y="573" width="375" height="40" index="23">
+                                  <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="r/Lsstesting" name="r/Lsstesting" label="r/Lsstesting" enabled="true" accessible="true" x="64" y="584" width="85" height="18" index="0"/>
+                                  <XCUIElementTypeButton type="XCUIElementTypeButton" enabled="true" accessible="true" x="295" y="573" width="40" height="40" index="1">
+                                    <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" enabled="true" accessible="false" x="295" y="573" width="0" height="0" index="0"/>
+                                  </XCUIElementTypeButton>
+                                </XCUIElementTypeCell>
+                                <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" accessible="true" x="0" y="613" width="375" height="40" index="24">
+                                  <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="r/Lsstesting2" name="r/Lsstesting2" label="r/Lsstesting2" enabled="true" accessible="true" x="64" y="624" width="94" height="18" index="0"/>
+                                  <XCUIElementTypeButton type="XCUIElementTypeButton" enabled="true" accessible="true" x="295" y="613" width="40" height="40" index="1">
+                                    <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" enabled="true" accessible="false" x="295" y="613" width="0" height="0" index="0"/>
+                                  </XCUIElementTypeButton>
+                                </XCUIElementTypeCell>
+                                <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" accessible="true" x="0" y="653" width="375" height="40" index="25">
+                                  <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="r/LssVideoTest" name="r/LssVideoTest" label="r/LssVideoTest" enabled="true" accessible="true" x="64" y="664" width="108" height="18" index="0"/>
+                                  <XCUIElementTypeButton type="XCUIElementTypeButton" enabled="true" accessible="true" x="295" y="653" width="40" height="40" index="1">
+                                    <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" enabled="true" accessible="false" x="295" y="653" width="0" height="0" index="0"/>
+                                  </XCUIElementTypeButton>
+                                </XCUIElementTypeCell>
+                                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="693" width="375" height="0" index="26"/>
+                                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="693" width="375" height="0" index="27"/>
+                                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="693" width="375" height="0" index="28"/>
+                                <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" accessible="false" x="176" y="708" width="20" height="20" index="29"/>
+                              </XCUIElementTypeTable>
+                            </XCUIElementTypeOther>
+                          </XCUIElementTypeScrollView>
+                        </XCUIElementTypeOther>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="88" width="375" height="44" index="2">
+                          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="88" width="375" height="44" index="0">
+                            <XCUIElementTypeScrollView type="XCUIElementTypeScrollView" enabled="true" accessible="false" x="0" y="88" width="375" height="44" index="0">
+                              <XCUIElementTypeOther type="XCUIElementTypeOther" name="Communities" label="Communities" enabled="true" accessible="false" x="0" y="88" width="188" height="44" index="0">
+                                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Communities" name="Communities" label="Communities" enabled="true" accessible="true" x="46" y="101" width="95" height="18" index="0"/>
+                              </XCUIElementTypeOther>
+                              <XCUIElementTypeOther type="XCUIElementTypeOther" name="Custom Feeds" label="Custom Feeds" enabled="true" accessible="false" x="187" y="88" width="188" height="44" index="1">
+                                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Custom Feeds" name="Custom Feeds" label="Custom Feeds" enabled="true" accessible="true" x="229" y="101" width="104" height="18" index="0"/>
+                              </XCUIElementTypeOther>
+                              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="38" y="130" width="111" height="2" index="2"/>
+                            </XCUIElementTypeScrollView>
+                            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="131" width="375" height="1" index="1"/>
+                          </XCUIElementTypeOther>
+                          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="131" width="375" height="1" index="1"/>
+                        </XCUIElementTypeOther>
+                      </XCUIElementTypeOther>
+                    </XCUIElementTypeOther>
+                  </XCUIElementTypeOther>
+                </XCUIElementTypeOther>
+              </XCUIElementTypeOther>
+            </XCUIElementTypeOther>
+            <XCUIElementTypeTabBar type="XCUIElementTypeTabBar" name="Tab Bar" label="Tab Bar" enabled="true" accessible="false" x="0" y="732" width="375" height="80" index="1">
+              <XCUIElementTypeButton type="XCUIElementTypeButton" name="Home" label="Home" enabled="true" accessible="true" x="2" y="733" width="71" height="49" index="0"/>
+              <XCUIElementTypeButton type="XCUIElementTypeButton" value="1" name="Browse" label="Browse" enabled="true" accessible="true" x="77" y="733" width="71" height="49" index="1"/>
+              <XCUIElementTypeButton type="XCUIElementTypeButton" enabled="true" accessible="true" x="152" y="733" width="71" height="49" index="2"/>
+              <XCUIElementTypeButton type="XCUIElementTypeButton" name="Create" label="Create" enabled="true" accessible="true" x="169" y="739" width="37" height="37" index="3"/>
+              <XCUIElementTypeButton type="XCUIElementTypeButton" name="Chat" label="Chat" enabled="true" accessible="true" x="227" y="733" width="71" height="49" index="4"/>
+              <XCUIElementTypeButton type="XCUIElementTypeButton" value="558 items" name="Inbox" label="Inbox" enabled="true" accessible="true" x="302" y="733" width="71" height="49" index="5"/>
+            </XCUIElementTypeTabBar>
+          </XCUIElementTypeOther>
+        </XCUIElementTypeOther>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" accessible="false" x="0" y="0" width="375" height="812" index="1">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="0" width="375" height="812" index="0">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="0" width="375" height="812" index="0"/>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+</XCUIElementTypeApplication>

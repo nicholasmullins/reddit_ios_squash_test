@@ -1,0 +1,55 @@
+{
+    "elems": {
+        "iter_00000_step_00006_28_XCUIElementTypeStaticText.png": {
+            "lnk_politics_subreddit": {
+                "all_scores": {
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 0.86
+                }, 
+                "score": 0.86, 
+                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00011_154_XCUIElementTypeButton.png": {
+            "icn_home": {
+                "all_scores": {
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 0.99
+                }, 
+                "score": 0.99, 
+                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00011_18_XCUIElementTypeCell.png": {
+            "inp_post_title": {
+                "all_scores": {
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 0.85
+                }, 
+                "score": 0.85, 
+                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00011_37_XCUIElementTypeOther.png": {
+            "btn_menu": {
+                "all_scores": {
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 0.93
+                }, 
+                "score": 0.93, 
+                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+            }, 
+            "btn_menu_post_login": {
+                "all_scores": {
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 0.93
+                }, 
+                "score": 0.93, 
+                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+            }, 
+            "btn_menu_pre_login": {
+                "all_scores": {
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 0.92
+                }, 
+                "score": 0.92, 
+                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+            }
+        }
+    }, 
+    "screens": {}
+}

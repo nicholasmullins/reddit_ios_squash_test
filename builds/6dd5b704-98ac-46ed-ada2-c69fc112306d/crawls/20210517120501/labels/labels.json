@@ -1,0 +1,17 @@
+{
+    "elems": {
+        "iter_00000_step_00001_7_XCUIElementTypeButton.png": [
+            "btn_skip"
+        ], 
+        "iter_00000_step_00005_15_XCUIElementTypeTextField.png": [
+            "inp_search"
+        ], 
+        "iter_00000_step_00010_119_XCUIElementTypeStaticText.png": [
+            "tab_communities"
+        ], 
+        "iter_00000_step_00010_28_XCUIElementTypeStaticText.png": [
+            "lnk_politics_subreddit"
+        ]
+    }, 
+    "screens": {}
+}

@@ -1,0 +1,21 @@
+{
+    "elems": {
+        "NDBhMWQyODg1NjhiODdkMmUwZGIyNmFjOWYzNmI5NTk=\n": [
+            "btn_menu_post_login"
+        ], 
+        "NWUyNmQ5MzY1NDMwMTU0MDk2ODI1MDVmZDQ0ZmEzY2U=\n": [
+            "btn_close"
+        ], 
+        "NmNlZjA5N2NlNDA1MjVmNmI5YjZlN2Q2Nzg4MmUzM2E=\n": [
+            "btn_menu_post_login", 
+            "btn_menu"
+        ], 
+        "NzNjYzA3ZTUxZmI4OTI2MGE2ZDQ0NDNjOWQxYWZkMzY=\n": [
+            "btn_menu_pre_login"
+        ], 
+        "YmI5NzU2YjRiMDIwNjVmYTI0Yjk2MjE3YzBjZDhlOGU=\n": [
+            "ddl_username"
+        ]
+    }, 
+    "screens": {}
+}

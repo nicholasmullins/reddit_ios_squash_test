@@ -1,0 +1,20 @@
+{
+    "elems": {
+        "iter_00000_step_00004_162_XCUIElementTypeSecureTextField.png": [
+            "inp_password"
+        ], 
+        "iter_00000_step_00007_162_XCUIElementTypeTextField.png": [
+            "inp_username"
+        ], 
+        "iter_00000_step_00007_163_XCUIElementTypeSecureTextField.png": [
+            "inp_password"
+        ], 
+        "iter_00000_step_00009_159_XCUIElementTypeSecureTextField.png": [
+            "inp_password"
+        ], 
+        "iter_00000_step_00011_204_XCUIElementTypeButton.png": [
+            "btn_not_now"
+        ]
+    }, 
+    "screens": {}
+}

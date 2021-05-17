@@ -1,0 +1,23 @@
+{
+    "elems": {
+        "iter_00000_step_00001_241_XCUIElementTypeButton.png": [
+            "btn_not_now"
+        ], 
+        "iter_00000_step_00003_183_XCUIElementTypeButton.png": [
+            "btn_not_now"
+        ], 
+        "iter_00000_step_00004_10_XCUIElementTypeOther.png": [
+            "btn_menu", 
+            "btn_menu_post_login"
+        ], 
+        "iter_00000_step_00006_236_XCUIElementTypeButton.png": [
+            "icn_logout"
+        ], 
+        "iter_00000_step_00007_12_XCUIElementTypeOther.png": [], 
+        "iter_00000_step_00007_235_XCUIElementTypeStaticText.png": [
+            "txt_logout"
+        ], 
+        "iter_00000_step_00007_75_XCUIElementTypeOther.png": []
+    }, 
+    "screens": {}
+}

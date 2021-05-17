@@ -1,0 +1,2293 @@
+{
+    "elems": {
+        "dupe_to_master_key": {
+            "iter_00000_step_00000_0_XCUIElementTypeApplication.png": "iter_00000_step_00000_0_XCUIElementTypeApplication.png", 
+            "iter_00000_step_00000_100_XCUIElementTypeButton.png": "iter_00000_step_00000_100_XCUIElementTypeButton.png", 
+            "iter_00000_step_00000_101_XCUIElementTypeButton.png": "iter_00000_step_00000_101_XCUIElementTypeButton.png", 
+            "iter_00000_step_00000_102_XCUIElementTypeButton.png": "iter_00000_step_00000_102_XCUIElementTypeButton.png", 
+            "iter_00000_step_00000_103_XCUIElementTypeButton.png": "iter_00000_step_00000_103_XCUIElementTypeButton.png", 
+            "iter_00000_step_00000_104_XCUIElementTypeButton.png": "iter_00000_step_00000_104_XCUIElementTypeButton.png", 
+            "iter_00000_step_00000_105_XCUIElementTypeButton.png": "iter_00000_step_00000_105_XCUIElementTypeButton.png", 
+            "iter_00000_step_00000_10_XCUIElementTypeOther.png": "iter_00000_step_00000_10_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_11_XCUIElementTypeOther.png": "iter_00000_step_00000_12_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_12_XCUIElementTypeOther.png": "iter_00000_step_00000_12_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_13_XCUIElementTypeOther.png": "iter_00000_step_00000_13_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_14_XCUIElementTypeImage.png": "iter_00000_step_00000_14_XCUIElementTypeImage.png", 
+            "iter_00000_step_00000_15_XCUIElementTypeTextField.png": "iter_00000_step_00000_15_XCUIElementTypeTextField.png", 
+            "iter_00000_step_00000_16_XCUIElementTypeStaticText.png": "iter_00000_step_00000_16_XCUIElementTypeStaticText.png", 
+            "iter_00000_step_00000_17_XCUIElementTypeButton.png": "iter_00000_step_00000_17_XCUIElementTypeButton.png", 
+            "iter_00000_step_00000_18_XCUIElementTypeOther.png": "iter_00000_step_00000_8_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_19_XCUIElementTypeOther.png": "iter_00000_step_00000_8_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_1_XCUIElementTypeWindow.png": "iter_00000_step_00000_1_XCUIElementTypeWindow.png", 
+            "iter_00000_step_00000_20_XCUIElementTypeOther.png": "iter_00000_step_00000_8_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_21_XCUIElementTypeOther.png": "iter_00000_step_00000_21_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_22_XCUIElementTypeOther.png": "iter_00000_step_00000_8_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_23_XCUIElementTypeScrollView.png": "iter_00000_step_00000_23_XCUIElementTypeScrollView.png", 
+            "iter_00000_step_00000_24_XCUIElementTypeOther.png": "iter_00000_step_00000_8_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_25_XCUIElementTypeCollectionView.png": "iter_00000_step_00000_25_XCUIElementTypeCollectionView.png", 
+            "iter_00000_step_00000_26_XCUIElementTypeCell.png": "iter_00000_step_00000_26_XCUIElementTypeCell.png", 
+            "iter_00000_step_00000_27_XCUIElementTypeOther.png": "iter_00000_step_00000_28_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_28_XCUIElementTypeOther.png": "iter_00000_step_00000_28_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_29_XCUIElementTypeButton.png": "iter_00000_step_00000_29_XCUIElementTypeButton.png", 
+            "iter_00000_step_00000_2_XCUIElementTypeOther.png": "iter_00000_step_00000_8_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_30_XCUIElementTypeStaticText.png": "iter_00000_step_00000_30_XCUIElementTypeStaticText.png", 
+            "iter_00000_step_00000_31_XCUIElementTypeButton.png": "iter_00000_step_00000_31_XCUIElementTypeButton.png", 
+            "iter_00000_step_00000_33_XCUIElementTypeCell.png": "iter_00000_step_00000_33_XCUIElementTypeCell.png", 
+            "iter_00000_step_00000_34_XCUIElementTypeOther.png": "iter_00000_step_00000_36_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_35_XCUIElementTypeOther.png": "iter_00000_step_00000_36_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_36_XCUIElementTypeOther.png": "iter_00000_step_00000_36_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_37_XCUIElementTypeOther.png": "iter_00000_step_00000_37_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_38_XCUIElementTypeOther.png": "iter_00000_step_00000_38_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_39_XCUIElementTypeButton.png": "iter_00000_step_00000_39_XCUIElementTypeButton.png", 
+            "iter_00000_step_00000_3_XCUIElementTypeOther.png": "iter_00000_step_00000_8_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_40_XCUIElementTypeButton.png": "iter_00000_step_00000_40_XCUIElementTypeButton.png", 
+            "iter_00000_step_00000_41_XCUIElementTypeOther.png": "iter_00000_step_00000_41_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_42_XCUIElementTypeCollectionView.png": "iter_00000_step_00000_42_XCUIElementTypeCollectionView.png", 
+            "iter_00000_step_00000_43_XCUIElementTypeCell.png": "iter_00000_step_00000_43_XCUIElementTypeCell.png", 
+            "iter_00000_step_00000_44_XCUIElementTypeOther.png": "iter_00000_step_00000_46_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_45_XCUIElementTypeOther.png": "iter_00000_step_00000_46_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_46_XCUIElementTypeOther.png": "iter_00000_step_00000_46_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_47_XCUIElementTypeStaticText.png": "iter_00000_step_00000_47_XCUIElementTypeStaticText.png", 
+            "iter_00000_step_00000_48_XCUIElementTypeCell.png": "iter_00000_step_00000_48_XCUIElementTypeCell.png", 
+            "iter_00000_step_00000_49_XCUIElementTypeOther.png": "iter_00000_step_00000_51_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_4_XCUIElementTypeOther.png": "iter_00000_step_00000_8_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_50_XCUIElementTypeOther.png": "iter_00000_step_00000_51_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_51_XCUIElementTypeOther.png": "iter_00000_step_00000_51_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_52_XCUIElementTypeStaticText.png": "iter_00000_step_00000_52_XCUIElementTypeStaticText.png", 
+            "iter_00000_step_00000_5_XCUIElementTypeOther.png": "iter_00000_step_00000_8_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_61_XCUIElementTypeOther.png": "iter_00000_step_00000_61_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_62_XCUIElementTypeOther.png": "iter_00000_step_00000_62_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_63_XCUIElementTypeStaticText.png": "iter_00000_step_00000_63_XCUIElementTypeStaticText.png", 
+            "iter_00000_step_00000_64_XCUIElementTypeButton.png": "iter_00000_step_00000_64_XCUIElementTypeButton.png", 
+            "iter_00000_step_00000_65_XCUIElementTypeButton.png": "iter_00000_step_00000_65_XCUIElementTypeButton.png", 
+            "iter_00000_step_00000_66_XCUIElementTypeStaticText.png": "iter_00000_step_00000_66_XCUIElementTypeStaticText.png", 
+            "iter_00000_step_00000_67_XCUIElementTypeScrollView.png": "iter_00000_step_00000_67_XCUIElementTypeScrollView.png", 
+            "iter_00000_step_00000_68_XCUIElementTypeOther.png": "iter_00000_step_00000_68_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_69_XCUIElementTypeOther.png": "iter_00000_step_00000_69_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_6_XCUIElementTypeOther.png": "iter_00000_step_00000_8_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_70_XCUIElementTypeOther.png": "iter_00000_step_00000_70_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_71_XCUIElementTypeOther.png": "iter_00000_step_00000_71_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_72_XCUIElementTypeStaticText.png": "iter_00000_step_00000_72_XCUIElementTypeStaticText.png", 
+            "iter_00000_step_00000_74_XCUIElementTypeOther.png": "iter_00000_step_00000_74_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_75_XCUIElementTypeStaticText.png": "iter_00000_step_00000_75_XCUIElementTypeStaticText.png", 
+            "iter_00000_step_00000_7_XCUIElementTypeOther.png": "iter_00000_step_00000_8_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_85_XCUIElementTypeOther.png": "iter_00000_step_00000_85_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_86_XCUIElementTypeOther.png": "iter_00000_step_00000_86_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_87_XCUIElementTypeOther.png": "iter_00000_step_00000_88_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_88_XCUIElementTypeOther.png": "iter_00000_step_00000_88_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_89_XCUIElementTypeScrollView.png": "iter_00000_step_00000_89_XCUIElementTypeScrollView.png", 
+            "iter_00000_step_00000_8_XCUIElementTypeOther.png": "iter_00000_step_00000_8_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_90_XCUIElementTypeOther.png": "iter_00000_step_00000_90_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_91_XCUIElementTypeStaticText.png": "iter_00000_step_00000_91_XCUIElementTypeStaticText.png", 
+            "iter_00000_step_00000_92_XCUIElementTypeOther.png": "iter_00000_step_00000_92_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_93_XCUIElementTypeStaticText.png": "iter_00000_step_00000_93_XCUIElementTypeStaticText.png", 
+            "iter_00000_step_00000_94_XCUIElementTypeOther.png": "iter_00000_step_00000_94_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_95_XCUIElementTypeStaticText.png": "iter_00000_step_00000_95_XCUIElementTypeStaticText.png", 
+            "iter_00000_step_00000_96_XCUIElementTypeOther.png": "iter_00000_step_00000_96_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_97_XCUIElementTypeOther.png": "iter_00000_step_00000_98_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_98_XCUIElementTypeOther.png": "iter_00000_step_00000_98_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_99_XCUIElementTypeTabBar.png": "iter_00000_step_00000_99_XCUIElementTypeTabBar.png", 
+            "iter_00000_step_00000_9_XCUIElementTypeNavigationBar.png": "iter_00000_step_00000_9_XCUIElementTypeNavigationBar.png"
+        }, 
+        "elems_to_infos": {
+            "iter_00000_step_00000_0_XCUIElementTypeApplication.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_0_XCUIElementTypeApplication.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeApplication", 
+                    "hash": "hyrkXwL+Dx5w4MEEOfzZIA==\n", 
+                    "height": 2436.0, 
+                    "human_hash": "XCUIElementTypeApplication_X0.0_Y0.0_W1125.0_H2436.0", 
+                    "tag_name": "XCUIElementTypeApplication", 
+                    "text": "Reddit", 
+                    "width": 1125.0, 
+                    "x": 0.0, 
+                    "y": 0.0
+                }, 
+                "tags": [
+                    "xcuielementtypeapplication", 
+                    "all_elems", 
+                    "application"
+                ], 
+                "text": [
+                    "Reddit"
+                ]
+            }, 
+            "iter_00000_step_00000_100_XCUIElementTypeButton.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_100_XCUIElementTypeButton.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeButton", 
+                    "hash": "Lfuv2MuXLmmTBa6ROyMcZQ==\n", 
+                    "height": 147.0, 
+                    "human_hash": "XCUIElementTypeButton_X6.0_Y2199.0_W213.0_H147.0", 
+                    "tag_name": "XCUIElementTypeButton", 
+                    "text": "1", 
+                    "width": 213.0, 
+                    "x": 6.0, 
+                    "y": 2199.0
+                }, 
+                "tags": [
+                    "button", 
+                    "xcuielementtypebutton", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "1"
+                ]
+            }, 
+            "iter_00000_step_00000_101_XCUIElementTypeButton.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_101_XCUIElementTypeButton.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeButton", 
+                    "hash": "jYJc2ggz/ApmC/dOZ+9jjQ==\n", 
+                    "height": 147.0, 
+                    "human_hash": "XCUIElementTypeButton_X231.0_Y2199.0_W213.0_H147.0", 
+                    "tag_name": "XCUIElementTypeButton", 
+                    "text": "Browse", 
+                    "width": 213.0, 
+                    "x": 231.0, 
+                    "y": 2199.0
+                }, 
+                "tags": [
+                    "button", 
+                    "xcuielementtypebutton", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Browse"
+                ]
+            }, 
+            "iter_00000_step_00000_102_XCUIElementTypeButton.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_102_XCUIElementTypeButton.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeButton", 
+                    "hash": "LH5GEFJQFcxnF252QR0gKw==\n", 
+                    "height": 147.0, 
+                    "human_hash": "XCUIElementTypeButton_X456.0_Y2199.0_W213.0_H147.0", 
+                    "tag_name": "XCUIElementTypeButton", 
+                    "text": "", 
+                    "width": 213.0, 
+                    "x": 456.0, 
+                    "y": 2199.0
+                }, 
+                "tags": [
+                    "button", 
+                    "xcuielementtypebutton", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_103_XCUIElementTypeButton.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_103_XCUIElementTypeButton.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeButton", 
+                    "hash": "lORbr5v1RIuzD8LhH3btGg==\n", 
+                    "height": 111.0, 
+                    "human_hash": "XCUIElementTypeButton_X507.0_Y2217.0_W111.0_H111.0", 
+                    "tag_name": "XCUIElementTypeButton", 
+                    "text": "Create", 
+                    "width": 111.0, 
+                    "x": 507.0, 
+                    "y": 2217.0
+                }, 
+                "tags": [
+                    "button", 
+                    "xcuielementtypebutton", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Create"
+                ]
+            }, 
+            "iter_00000_step_00000_104_XCUIElementTypeButton.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_104_XCUIElementTypeButton.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeButton", 
+                    "hash": "a9N728jVBcaSjvvJO722MA==\n", 
+                    "height": 147.0, 
+                    "human_hash": "XCUIElementTypeButton_X681.0_Y2199.0_W213.0_H147.0", 
+                    "tag_name": "XCUIElementTypeButton", 
+                    "text": "Chat", 
+                    "width": 213.0, 
+                    "x": 681.0, 
+                    "y": 2199.0
+                }, 
+                "tags": [
+                    "button", 
+                    "xcuielementtypebutton", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Chat"
+                ]
+            }, 
+            "iter_00000_step_00000_105_XCUIElementTypeButton.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_105_XCUIElementTypeButton.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeButton", 
+                    "hash": "R8Ak6CW0dTL15BW310mr6A==\n", 
+                    "height": 147.0, 
+                    "human_hash": "XCUIElementTypeButton_X906.0_Y2199.0_W213.0_H147.0", 
+                    "tag_name": "XCUIElementTypeButton", 
+                    "text": "Inbox", 
+                    "width": 213.0, 
+                    "x": 906.0, 
+                    "y": 2199.0
+                }, 
+                "tags": [
+                    "button", 
+                    "xcuielementtypebutton", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Inbox"
+                ]
+            }, 
+            "iter_00000_step_00000_10_XCUIElementTypeOther.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_10_XCUIElementTypeOther.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeOther", 
+                    "hash": "Frf2F2xFHUn2h2Y3Subpog==\n", 
+                    "height": 132.0, 
+                    "human_hash": "XCUIElementTypeOther_X48.0_Y132.0_W96.0_H132.0", 
+                    "tag_name": "XCUIElementTypeOther", 
+                    "text": "User profile drawer", 
+                    "width": 96.0, 
+                    "x": 48.0, 
+                    "y": 132.0
+                }, 
+                "tags": [
+                    "other", 
+                    "all_elems", 
+                    "xcuielementtypeother"
+                ], 
+                "text": [
+                    "User_profile_drawer"
+                ]
+            }, 
+            "iter_00000_step_00000_12_XCUIElementTypeOther.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00000_12_XCUIElementTypeOther.png", 
+                    "iter_00000_step_00000_11_XCUIElementTypeOther.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeOther", 
+                    "hash": "kV800r5rWFhWSuxjNG3Ijg==\n", 
+                    "height": 132.0, 
+                    "human_hash": "XCUIElementTypeOther_X162.0_Y132.0_W825.0_H132.0", 
+                    "tag_name": "XCUIElementTypeOther", 
+                    "text": "", 
+                    "width": 825.0, 
+                    "x": 162.0, 
+                    "y": 132.0
+                }, 
+                "tags": [
+                    "other", 
+                    "all_elems", 
+                    "xcuielementtypeother"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_13_XCUIElementTypeOther.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_13_XCUIElementTypeOther.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeOther", 
+                    "hash": "hjJdLJnyl1kDOJhD0+bIUQ==\n", 
+                    "height": 96.0, 
+                    "human_hash": "XCUIElementTypeOther_X162.0_Y150.0_W825.0_H96.0", 
+                    "tag_name": "XCUIElementTypeOther", 
+                    "text": "", 
+                    "width": 825.0, 
+                    "x": 162.0, 
+                    "y": 150.0
+                }, 
+                "tags": [
+                    "other", 
+                    "all_elems", 
+                    "xcuielementtypeother"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_14_XCUIElementTypeImage.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_14_XCUIElementTypeImage.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeImage", 
+                    "hash": "mmqNLIRxMxq5pK6Ut2Fzeg==\n", 
+                    "height": 48.0, 
+                    "human_hash": "XCUIElementTypeImage_X186.0_Y174.0_W48.0_H48.0", 
+                    "tag_name": "XCUIElementTypeImage", 
+                    "text": "", 
+                    "width": 48.0, 
+                    "x": 186.0, 
+                    "y": 174.0
+                }, 
+                "tags": [
+                    "image", 
+                    "all_elems", 
+                    "xcuielementtypeimage"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_15_XCUIElementTypeTextField.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_15_XCUIElementTypeTextField.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeTextField", 
+                    "hash": "4LhQ+0lM2j/Z3GOb3NCeMQ==\n", 
+                    "height": 96.0, 
+                    "human_hash": "XCUIElementTypeTextField_X246.0_Y150.0_W705.0_H96.0", 
+                    "tag_name": "XCUIElementTypeTextField", 
+                    "text": "", 
+                    "width": 705.0, 
+                    "x": 246.0, 
+                    "y": 150.0
+                }, 
+                "tags": [
+                    "xcuielementtypetextfield", 
+                    "textfield", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_16_XCUIElementTypeStaticText.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_16_XCUIElementTypeStaticText.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeStaticText", 
+                    "hash": "FTtG0l3nPJTIntxPH7I1Nw==\n", 
+                    "height": 54.0, 
+                    "human_hash": "XCUIElementTypeStaticText_X258.0_Y171.0_W705.0_H54.0", 
+                    "tag_name": "XCUIElementTypeStaticText", 
+                    "text": "Search", 
+                    "width": 705.0, 
+                    "x": 258.0, 
+                    "y": 171.0
+                }, 
+                "tags": [
+                    "xcuielementtypestatictext", 
+                    "all_elems", 
+                    "statictext"
+                ], 
+                "text": [
+                    "Search"
+                ]
+            }, 
+            "iter_00000_step_00000_17_XCUIElementTypeButton.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_17_XCUIElementTypeButton.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeButton", 
+                    "hash": "/AKY5MsU9mpPai01ycOCBw==\n", 
+                    "height": 72.0, 
+                    "human_hash": "XCUIElementTypeButton_X1005.0_Y162.0_W72.0_H72.0", 
+                    "tag_name": "XCUIElementTypeButton", 
+                    "text": "coin 24", 
+                    "width": 72.0, 
+                    "x": 1005.0, 
+                    "y": 162.0
+                }, 
+                "tags": [
+                    "button", 
+                    "xcuielementtypebutton", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "coin_24"
+                ]
+            }, 
+            "iter_00000_step_00000_1_XCUIElementTypeWindow.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_1_XCUIElementTypeWindow.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeWindow", 
+                    "hash": "jGZJv+11Xmw49Oa0zUD75Q==\n", 
+                    "height": 2436.0, 
+                    "human_hash": "XCUIElementTypeWindow_X0.0_Y0.0_W1125.0_H2436.0", 
+                    "tag_name": "XCUIElementTypeWindow", 
+                    "text": "", 
+                    "width": 1125.0, 
+                    "x": 0.0, 
+                    "y": 0.0
+                }, 
+                "tags": [
+                    "window", 
+                    "all_elems", 
+                    "xcuielementtypewindow"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_21_XCUIElementTypeOther.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_21_XCUIElementTypeOther.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeOther", 
+                    "hash": "5cbS2NTOV1XolAWLFZIcCg==\n", 
+                    "height": 264.0, 
+                    "human_hash": "XCUIElementTypeOther_X0.0_Y0.0_W1125.0_H264.0", 
+                    "tag_name": "XCUIElementTypeOther", 
+                    "text": "", 
+                    "width": 1125.0, 
+                    "x": 0.0, 
+                    "y": 0.0
+                }, 
+                "tags": [
+                    "other", 
+                    "all_elems", 
+                    "xcuielementtypeother"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_23_XCUIElementTypeScrollView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_23_XCUIElementTypeScrollView.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeScrollView", 
+                    "hash": "dhWAAyLk82DGttW6VXQHiw==\n", 
+                    "height": 2436.0, 
+                    "human_hash": "XCUIElementTypeScrollView_X0.0_Y0.0_W1125.0_H2436.0", 
+                    "tag_name": "XCUIElementTypeScrollView", 
+                    "text": "", 
+                    "width": 1125.0, 
+                    "x": 0.0, 
+                    "y": 0.0
+                }, 
+                "tags": [
+                    "xcuielementtypescrollview", 
+                    "all_elems", 
+                    "scrollview"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_25_XCUIElementTypeCollectionView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_25_XCUIElementTypeCollectionView.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeCollectionView", 
+                    "hash": "ppNDZvOiSjuDS/GLwXcM8A==\n", 
+                    "height": 2436.0, 
+                    "human_hash": "XCUIElementTypeCollectionView_X0.0_Y0.0_W1125.0_H2436.0", 
+                    "tag_name": "XCUIElementTypeCollectionView", 
+                    "text": "", 
+                    "width": 1125.0, 
+                    "x": 0.0, 
+                    "y": 0.0
+                }, 
+                "tags": [
+                    "collectionview", 
+                    "all_elems", 
+                    "xcuielementtypecollectionview"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_26_XCUIElementTypeCell.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_26_XCUIElementTypeCell.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeCell", 
+                    "hash": "nBRJlFlRaiSMexvi/50YBg==\n", 
+                    "height": 132.0, 
+                    "human_hash": "XCUIElementTypeCell_X0.0_Y396.0_W1125.0_H132.0", 
+                    "tag_name": "XCUIElementTypeCell", 
+                    "text": "", 
+                    "width": 1125.0, 
+                    "x": 0.0, 
+                    "y": 396.0
+                }, 
+                "tags": [
+                    "xcuielementtypecell", 
+                    "cell", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_28_XCUIElementTypeOther.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00000_28_XCUIElementTypeOther.png", 
+                    "iter_00000_step_00000_27_XCUIElementTypeOther.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeOther", 
+                    "hash": "hUTezD5gBRh4ESHG9AmHdg==\n", 
+                    "height": 132.0, 
+                    "human_hash": "XCUIElementTypeOther_X0.0_Y396.0_W1125.0_H132.0", 
+                    "tag_name": "XCUIElementTypeOther", 
+                    "text": "", 
+                    "width": 1125.0, 
+                    "x": 0.0, 
+                    "y": 396.0
+                }, 
+                "tags": [
+                    "other", 
+                    "all_elems", 
+                    "xcuielementtypeother"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_29_XCUIElementTypeButton.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_29_XCUIElementTypeButton.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeButton", 
+                    "hash": "yyCX9uUGePM7jNEdy4kKVg==\n", 
+                    "height": 132.0, 
+                    "human_hash": "XCUIElementTypeButton_X36.0_Y396.0_W258.0_H132.0", 
+                    "tag_name": "XCUIElementTypeButton", 
+                    "text": "HOT POSTS", 
+                    "width": 258.0, 
+                    "x": 36.0, 
+                    "y": 396.0
+                }, 
+                "tags": [
+                    "button", 
+                    "xcuielementtypebutton", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "HOT_POSTS"
+                ]
+            }, 
+            "iter_00000_step_00000_30_XCUIElementTypeStaticText.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_30_XCUIElementTypeStaticText.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeStaticText", 
+                    "hash": "A+s3GT0CENgJXZsQzH/2YQ==\n", 
+                    "height": 42.0, 
+                    "human_hash": "XCUIElementTypeStaticText_X96.0_Y441.0_W198.0_H42.0", 
+                    "tag_name": "XCUIElementTypeStaticText", 
+                    "text": "HOT POSTS", 
+                    "width": 198.0, 
+                    "x": 96.0, 
+                    "y": 441.0
+                }, 
+                "tags": [
+                    "xcuielementtypestatictext", 
+                    "all_elems", 
+                    "statictext"
+                ], 
+                "text": [
+                    "HOT_POSTS"
+                ]
+            }, 
+            "iter_00000_step_00000_31_XCUIElementTypeButton.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_31_XCUIElementTypeButton.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeButton", 
+                    "hash": "I50hajkYj5pnwJE1uaiqxQ==\n", 
+                    "height": 132.0, 
+                    "human_hash": "XCUIElementTypeButton_X1017.0_Y396.0_W60.0_H132.0", 
+                    "tag_name": "XCUIElementTypeButton", 
+                    "text": "Feed display mode", 
+                    "width": 60.0, 
+                    "x": 1017.0, 
+                    "y": 396.0
+                }, 
+                "tags": [
+                    "button", 
+                    "xcuielementtypebutton", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Feed_display_mode"
+                ]
+            }, 
+            "iter_00000_step_00000_33_XCUIElementTypeCell.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_33_XCUIElementTypeCell.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeCell", 
+                    "hash": "d4BNCRognxhyQLuJgu09MQ==\n", 
+                    "height": 435.0, 
+                    "human_hash": "XCUIElementTypeCell_X0.0_Y528.0_W1125.0_H435.0", 
+                    "tag_name": "XCUIElementTypeCell", 
+                    "text": "", 
+                    "width": 1125.0, 
+                    "x": 0.0, 
+                    "y": 528.0
+                }, 
+                "tags": [
+                    "xcuielementtypecell", 
+                    "cell", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_36_XCUIElementTypeOther.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00000_36_XCUIElementTypeOther.png", 
+                    "iter_00000_step_00000_35_XCUIElementTypeOther.png", 
+                    "iter_00000_step_00000_34_XCUIElementTypeOther.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeOther", 
+                    "hash": "ahYwxW2ZRLdrcZAzh++nHQ==\n", 
+                    "height": 435.0, 
+                    "human_hash": "XCUIElementTypeOther_X0.0_Y528.0_W1125.0_H435.0", 
+                    "tag_name": "XCUIElementTypeOther", 
+                    "text": "", 
+                    "width": 1125.0, 
+                    "x": 0.0, 
+                    "y": 528.0
+                }, 
+                "tags": [
+                    "other", 
+                    "all_elems", 
+                    "xcuielementtypeother"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_37_XCUIElementTypeOther.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_37_XCUIElementTypeOther.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeOther", 
+                    "hash": "XYT0hvYDPaGK/iJPjUtMyQ==\n", 
+                    "height": 123.0, 
+                    "human_hash": "XCUIElementTypeOther_X0.0_Y528.0_W1125.0_H123.0", 
+                    "tag_name": "XCUIElementTypeOther", 
+                    "text": "", 
+                    "width": 1125.0, 
+                    "x": 0.0, 
+                    "y": 528.0
+                }, 
+                "tags": [
+                    "other", 
+                    "all_elems", 
+                    "xcuielementtypeother"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_38_XCUIElementTypeOther.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_38_XCUIElementTypeOther.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeOther", 
+                    "hash": "w0wCk2id8cio44o0bPXThQ==\n", 
+                    "height": 75.0, 
+                    "human_hash": "XCUIElementTypeOther_X48.0_Y552.0_W444.0_H75.0", 
+                    "tag_name": "XCUIElementTypeOther", 
+                    "text": "", 
+                    "width": 444.0, 
+                    "x": 48.0, 
+                    "y": 552.0
+                }, 
+                "tags": [
+                    "other", 
+                    "all_elems", 
+                    "xcuielementtypeother"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_39_XCUIElementTypeButton.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_39_XCUIElementTypeButton.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeButton", 
+                    "hash": "vuuOJZG0DmpNDD39mEByXA==\n", 
+                    "height": 75.0, 
+                    "human_hash": "XCUIElementTypeButton_X48.0_Y552.0_W444.0_H75.0", 
+                    "tag_name": "XCUIElementTypeButton", 
+                    "text": "  Trending Today", 
+                    "width": 444.0, 
+                    "x": 48.0, 
+                    "y": 552.0
+                }, 
+                "tags": [
+                    "button", 
+                    "xcuielementtypebutton", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "__Trending_Today"
+                ]
+            }, 
+            "iter_00000_step_00000_40_XCUIElementTypeButton.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_40_XCUIElementTypeButton.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeButton", 
+                    "hash": "wQTHHiUWB9p/5EBcczxjAA==\n", 
+                    "height": 75.0, 
+                    "human_hash": "XCUIElementTypeButton_X1005.0_Y552.0_W72.0_H75.0", 
+                    "tag_name": "XCUIElementTypeButton", 
+                    "text": "", 
+                    "width": 72.0, 
+                    "x": 1005.0, 
+                    "y": 552.0
+                }, 
+                "tags": [
+                    "button", 
+                    "xcuielementtypebutton", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_41_XCUIElementTypeOther.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_41_XCUIElementTypeOther.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeOther", 
+                    "hash": "6GG2Mxf8Sooq+CLwRHeK/A==\n", 
+                    "height": 315.0, 
+                    "human_hash": "XCUIElementTypeOther_X0.0_Y648.0_W1125.0_H315.0", 
+                    "tag_name": "XCUIElementTypeOther", 
+                    "text": "", 
+                    "width": 1125.0, 
+                    "x": 0.0, 
+                    "y": 648.0
+                }, 
+                "tags": [
+                    "other", 
+                    "all_elems", 
+                    "xcuielementtypeother"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_42_XCUIElementTypeCollectionView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_42_XCUIElementTypeCollectionView.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeCollectionView", 
+                    "hash": "fQhy1mGIteSoNAb9UUAJfg==\n", 
+                    "height": 291.0, 
+                    "human_hash": "XCUIElementTypeCollectionView_X0.0_Y648.0_W1125.0_H291.0", 
+                    "tag_name": "XCUIElementTypeCollectionView", 
+                    "text": "", 
+                    "width": 1125.0, 
+                    "x": 0.0, 
+                    "y": 648.0
+                }, 
+                "tags": [
+                    "collectionview", 
+                    "all_elems", 
+                    "xcuielementtypecollectionview"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_43_XCUIElementTypeCell.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_43_XCUIElementTypeCell.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeCell", 
+                    "hash": "VLkiC49No+j4H3RfY39+Ew==\n", 
+                    "height": 291.0, 
+                    "human_hash": "XCUIElementTypeCell_X48.0_Y648.0_W438.0_H291.0", 
+                    "tag_name": "XCUIElementTypeCell", 
+                    "text": "", 
+                    "width": 438.0, 
+                    "x": 48.0, 
+                    "y": 648.0
+                }, 
+                "tags": [
+                    "xcuielementtypecell", 
+                    "cell", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_46_XCUIElementTypeOther.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00000_46_XCUIElementTypeOther.png", 
+                    "iter_00000_step_00000_45_XCUIElementTypeOther.png", 
+                    "iter_00000_step_00000_44_XCUIElementTypeOther.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeOther", 
+                    "hash": "DIrLylOiHahHcZxKtmGsdA==\n", 
+                    "height": 291.0, 
+                    "human_hash": "XCUIElementTypeOther_X48.0_Y648.0_W438.0_H291.0", 
+                    "tag_name": "XCUIElementTypeOther", 
+                    "text": "", 
+                    "width": 438.0, 
+                    "x": 48.0, 
+                    "y": 648.0
+                }, 
+                "tags": [
+                    "other", 
+                    "all_elems", 
+                    "xcuielementtypeother"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_47_XCUIElementTypeStaticText.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_47_XCUIElementTypeStaticText.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeStaticText", 
+                    "hash": "6bXycvZfmYO7+tQZf7QkHw==\n", 
+                    "height": 57.0, 
+                    "human_hash": "XCUIElementTypeStaticText_X72.0_Y870.0_W390.0_H57.0", 
+                    "tag_name": "XCUIElementTypeStaticText", 
+                    "text": "UFOs", 
+                    "width": 390.0, 
+                    "x": 72.0, 
+                    "y": 870.0
+                }, 
+                "tags": [
+                    "xcuielementtypestatictext", 
+                    "all_elems", 
+                    "statictext"
+                ], 
+                "text": [
+                    "UFOs"
+                ]
+            }, 
+            "iter_00000_step_00000_48_XCUIElementTypeCell.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_48_XCUIElementTypeCell.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeCell", 
+                    "hash": "QJ7JbCBcdD4sR9mjOJQDqw==\n", 
+                    "height": 291.0, 
+                    "human_hash": "XCUIElementTypeCell_X510.0_Y648.0_W438.0_H291.0", 
+                    "tag_name": "XCUIElementTypeCell", 
+                    "text": "", 
+                    "width": 438.0, 
+                    "x": 510.0, 
+                    "y": 648.0
+                }, 
+                "tags": [
+                    "xcuielementtypecell", 
+                    "cell", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_51_XCUIElementTypeOther.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00000_51_XCUIElementTypeOther.png", 
+                    "iter_00000_step_00000_50_XCUIElementTypeOther.png", 
+                    "iter_00000_step_00000_49_XCUIElementTypeOther.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeOther", 
+                    "hash": "DvvQpd1Gtbt4XQ8D8uSN4w==\n", 
+                    "height": 291.0, 
+                    "human_hash": "XCUIElementTypeOther_X510.0_Y648.0_W438.0_H291.0", 
+                    "tag_name": "XCUIElementTypeOther", 
+                    "text": "", 
+                    "width": 438.0, 
+                    "x": 510.0, 
+                    "y": 648.0
+                }, 
+                "tags": [
+                    "other", 
+                    "all_elems", 
+                    "xcuielementtypeother"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_52_XCUIElementTypeStaticText.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_52_XCUIElementTypeStaticText.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeStaticText", 
+                    "hash": "UKFhICMdBbMHmKlCaxo/5w==\n", 
+                    "height": 57.0, 
+                    "human_hash": "XCUIElementTypeStaticText_X534.0_Y870.0_W390.0_H57.0", 
+                    "tag_name": "XCUIElementTypeStaticText", 
+                    "text": "Bill Gates", 
+                    "width": 390.0, 
+                    "x": 534.0, 
+                    "y": 870.0
+                }, 
+                "tags": [
+                    "xcuielementtypestatictext", 
+                    "all_elems", 
+                    "statictext"
+                ], 
+                "text": [
+                    "Bill_Gates"
+                ]
+            }, 
+            "iter_00000_step_00000_61_XCUIElementTypeOther.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_61_XCUIElementTypeOther.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeOther", 
+                    "hash": "btYKr1t+PhsTzI4vEgTVDg==\n", 
+                    "height": 147.0, 
+                    "human_hash": "XCUIElementTypeOther_X48.0_Y984.0_W1029.0_H147.0", 
+                    "tag_name": "XCUIElementTypeOther", 
+                    "text": "", 
+                    "width": 1029.0, 
+                    "x": 48.0, 
+                    "y": 984.0
+                }, 
+                "tags": [
+                    "other", 
+                    "all_elems", 
+                    "xcuielementtypeother"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_62_XCUIElementTypeOther.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_62_XCUIElementTypeOther.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeOther", 
+                    "hash": "kYmCqMGxFA6clZKwzxA0pg==\n", 
+                    "height": 99.0, 
+                    "human_hash": "XCUIElementTypeOther_X48.0_Y1008.0_W96.0_H99.0", 
+                    "tag_name": "XCUIElementTypeOther", 
+                    "text": "", 
+                    "width": 96.0, 
+                    "x": 48.0, 
+                    "y": 1008.0
+                }, 
+                "tags": [
+                    "other", 
+                    "all_elems", 
+                    "xcuielementtypeother"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_63_XCUIElementTypeStaticText.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_63_XCUIElementTypeStaticText.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeStaticText", 
+                    "hash": "wyHxIDySHQ64bN0szbbVCQ==\n", 
+                    "height": 51.0, 
+                    "human_hash": "XCUIElementTypeStaticText_X168.0_Y1008.0_W102.0_H51.0", 
+                    "tag_name": "XCUIElementTypeStaticText", 
+                    "text": "r/pics", 
+                    "width": 102.0, 
+                    "x": 168.0, 
+                    "y": 1008.0
+                }, 
+                "tags": [
+                    "xcuielementtypestatictext", 
+                    "all_elems", 
+                    "statictext"
+                ], 
+                "text": [
+                    "r/pics"
+                ]
+            }, 
+            "iter_00000_step_00000_64_XCUIElementTypeButton.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_64_XCUIElementTypeButton.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeButton", 
+                    "hash": "UAg6wlK5P2zK0VLxAu8vew==\n", 
+                    "height": 75.0, 
+                    "human_hash": "XCUIElementTypeButton_X804.0_Y1020.0_W204.0_H75.0", 
+                    "tag_name": "XCUIElementTypeButton", 
+                    "text": "Join", 
+                    "width": 204.0, 
+                    "x": 804.0, 
+                    "y": 1020.0
+                }, 
+                "tags": [
+                    "button", 
+                    "xcuielementtypebutton", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Join"
+                ]
+            }, 
+            "iter_00000_step_00000_65_XCUIElementTypeButton.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_65_XCUIElementTypeButton.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeButton", 
+                    "hash": "5RiUdY4r7eDs3+yMQm0JoA==\n", 
+                    "height": 75.0, 
+                    "human_hash": "XCUIElementTypeButton_X1005.0_Y1020.0_W72.0_H75.0", 
+                    "tag_name": "XCUIElementTypeButton", 
+                    "text": "", 
+                    "width": 72.0, 
+                    "x": 1005.0, 
+                    "y": 1020.0
+                }, 
+                "tags": [
+                    "button", 
+                    "xcuielementtypebutton", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_66_XCUIElementTypeStaticText.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_66_XCUIElementTypeStaticText.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeStaticText", 
+                    "hash": "6hJM6jCzrOcsiPFovdwzcQ==\n", 
+                    "height": 45.0, 
+                    "human_hash": "XCUIElementTypeStaticText_X168.0_Y1059.0_W567.0_H45.0", 
+                    "tag_name": "XCUIElementTypeStaticText", 
+                    "text": "u/Story_Mountain  4h  i.redd.it", 
+                    "width": 567.0, 
+                    "x": 168.0, 
+                    "y": 1059.0
+                }, 
+                "tags": [
+                    "xcuielementtypestatictext", 
+                    "all_elems", 
+                    "statictext"
+                ], 
+                "text": [
+                    "u/Story_Mountain__4h__i.redd.it"
+                ]
+            }, 
+            "iter_00000_step_00000_67_XCUIElementTypeScrollView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_67_XCUIElementTypeScrollView.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeScrollView", 
+                    "hash": "lq5+SuJUqlz5/SSQh8XQVw==\n", 
+                    "height": 51.0, 
+                    "human_hash": "XCUIElementTypeScrollView_X0.0_Y1134.0_W540.0_H51.0", 
+                    "tag_name": "XCUIElementTypeScrollView", 
+                    "text": "", 
+                    "width": 540.0, 
+                    "x": 0.0, 
+                    "y": 1134.0
+                }, 
+                "tags": [
+                    "xcuielementtypescrollview", 
+                    "all_elems", 
+                    "scrollview"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_68_XCUIElementTypeOther.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_68_XCUIElementTypeOther.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeOther", 
+                    "hash": "wd8iFlvJXHhUWcaCkDQ+DA==\n", 
+                    "height": 51.0, 
+                    "human_hash": "XCUIElementTypeOther_X48.0_Y1134.0_W48.0_H51.0", 
+                    "tag_name": "XCUIElementTypeOther", 
+                    "text": "", 
+                    "width": 48.0, 
+                    "x": 48.0, 
+                    "y": 1134.0
+                }, 
+                "tags": [
+                    "other", 
+                    "all_elems", 
+                    "xcuielementtypeother"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_69_XCUIElementTypeOther.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_69_XCUIElementTypeOther.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeOther", 
+                    "hash": "s/m7jp9lJ76NsOIIq8uMsQ==\n", 
+                    "height": 51.0, 
+                    "human_hash": "XCUIElementTypeOther_X108.0_Y1134.0_W48.0_H51.0", 
+                    "tag_name": "XCUIElementTypeOther", 
+                    "text": "", 
+                    "width": 48.0, 
+                    "x": 108.0, 
+                    "y": 1134.0
+                }, 
+                "tags": [
+                    "other", 
+                    "all_elems", 
+                    "xcuielementtypeother"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_70_XCUIElementTypeOther.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_70_XCUIElementTypeOther.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeOther", 
+                    "hash": "2p+X35VvOAdssgW8GXFAAQ==\n", 
+                    "height": 51.0, 
+                    "human_hash": "XCUIElementTypeOther_X168.0_Y1134.0_W48.0_H51.0", 
+                    "tag_name": "XCUIElementTypeOther", 
+                    "text": "", 
+                    "width": 48.0, 
+                    "x": 168.0, 
+                    "y": 1134.0
+                }, 
+                "tags": [
+                    "other", 
+                    "all_elems", 
+                    "xcuielementtypeother"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_71_XCUIElementTypeOther.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_71_XCUIElementTypeOther.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeOther", 
+                    "hash": "0L/ROEFmy+EEnoJt6Oy67g==\n", 
+                    "height": 51.0, 
+                    "human_hash": "XCUIElementTypeOther_X228.0_Y1134.0_W48.0_H51.0", 
+                    "tag_name": "XCUIElementTypeOther", 
+                    "text": "", 
+                    "width": 48.0, 
+                    "x": 228.0, 
+                    "y": 1134.0
+                }, 
+                "tags": [
+                    "other", 
+                    "all_elems", 
+                    "xcuielementtypeother"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_72_XCUIElementTypeStaticText.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_72_XCUIElementTypeStaticText.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeStaticText", 
+                    "hash": "Eyod+T9jayX559UxvqF6fw==\n", 
+                    "height": 48.0, 
+                    "human_hash": "XCUIElementTypeStaticText_X288.0_Y1134.0_W204.0_H48.0", 
+                    "tag_name": "XCUIElementTypeStaticText", 
+                    "text": "108 Awards", 
+                    "width": 204.0, 
+                    "x": 288.0, 
+                    "y": 1134.0
+                }, 
+                "tags": [
+                    "xcuielementtypestatictext", 
+                    "all_elems", 
+                    "statictext"
+                ], 
+                "text": [
+                    "108_Awards"
+                ]
+            }, 
+            "iter_00000_step_00000_74_XCUIElementTypeOther.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_74_XCUIElementTypeOther.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeOther", 
+                    "hash": "4W5L2pc3KQoGOoa3yy05KA==\n", 
+                    "height": 81.0, 
+                    "human_hash": "XCUIElementTypeOther_X0.0_Y1182.0_W1125.0_H81.0", 
+                    "tag_name": "XCUIElementTypeOther", 
+                    "text": "", 
+                    "width": 1125.0, 
+                    "x": 0.0, 
+                    "y": 1182.0
+                }, 
+                "tags": [
+                    "other", 
+                    "all_elems", 
+                    "xcuielementtypeother"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_75_XCUIElementTypeStaticText.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_75_XCUIElementTypeStaticText.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeStaticText", 
+                    "hash": "fZ+Bxv+D1ytWlKH88Z5npg==\n", 
+                    "height": 63.0, 
+                    "human_hash": "XCUIElementTypeStaticText_X48.0_Y1200.0_W1029.0_H63.0", 
+                    "tag_name": "XCUIElementTypeStaticText", 
+                    "text": "It took 103 years, but I did it!!!", 
+                    "width": 1029.0, 
+                    "x": 48.0, 
+                    "y": 1200.0
+                }, 
+                "tags": [
+                    "xcuielementtypestatictext", 
+                    "all_elems", 
+                    "statictext"
+                ], 
+                "text": [
+                    "It_took_103_years,_but_I_did_it!!!"
+                ]
+            }, 
+            "iter_00000_step_00000_85_XCUIElementTypeOther.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_85_XCUIElementTypeOther.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeOther", 
+                    "hash": "84hoJYMrIa3PySoRYbtzDQ==\n", 
+                    "height": 1803.0, 
+                    "human_hash": "XCUIElementTypeOther_X1026.0_Y396.0_W90.0_H1803.0", 
+                    "tag_name": "XCUIElementTypeOther", 
+                    "text": "0%", 
+                    "width": 90.0, 
+                    "x": 1026.0, 
+                    "y": 396.0
+                }, 
+                "tags": [
+                    "other", 
+                    "all_elems", 
+                    "xcuielementtypeother"
+                ], 
+                "text": [
+                    "0%"
+                ]
+            }, 
+            "iter_00000_step_00000_86_XCUIElementTypeOther.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_86_XCUIElementTypeOther.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeOther", 
+                    "hash": "Q+FqridaJffoEnkh5UbHMA==\n", 
+                    "height": 93.0, 
+                    "human_hash": "XCUIElementTypeOther_X0.0_Y2097.0_W1125.0_H93.0", 
+                    "tag_name": "XCUIElementTypeOther", 
+                    "text": "0%", 
+                    "width": 1125.0, 
+                    "x": 0.0, 
+                    "y": 2097.0
+                }, 
+                "tags": [
+                    "other", 
+                    "all_elems", 
+                    "xcuielementtypeother"
+                ], 
+                "text": [
+                    "0%"
+                ]
+            }, 
+            "iter_00000_step_00000_88_XCUIElementTypeOther.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00000_88_XCUIElementTypeOther.png", 
+                    "iter_00000_step_00000_87_XCUIElementTypeOther.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeOther", 
+                    "hash": "dWqPcazbSmpe4E/0i3zh0g==\n", 
+                    "height": 132.0, 
+                    "human_hash": "XCUIElementTypeOther_X0.0_Y264.0_W1125.0_H132.0", 
+                    "tag_name": "XCUIElementTypeOther", 
+                    "text": "", 
+                    "width": 1125.0, 
+                    "x": 0.0, 
+                    "y": 264.0
+                }, 
+                "tags": [
+                    "other", 
+                    "all_elems", 
+                    "xcuielementtypeother"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_89_XCUIElementTypeScrollView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_89_XCUIElementTypeScrollView.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeScrollView", 
+                    "hash": "wiCJYmEwwotH33okD9BPbA==\n", 
+                    "height": 132.0, 
+                    "human_hash": "XCUIElementTypeScrollView_X0.0_Y264.0_W1125.0_H132.0", 
+                    "tag_name": "XCUIElementTypeScrollView", 
+                    "text": "", 
+                    "width": 1125.0, 
+                    "x": 0.0, 
+                    "y": 264.0
+                }, 
+                "tags": [
+                    "xcuielementtypescrollview", 
+                    "all_elems", 
+                    "scrollview"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_8_XCUIElementTypeOther.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 12, 
+                "dupes": [
+                    "iter_00000_step_00000_8_XCUIElementTypeOther.png", 
+                    "iter_00000_step_00000_7_XCUIElementTypeOther.png", 
+                    "iter_00000_step_00000_6_XCUIElementTypeOther.png", 
+                    "iter_00000_step_00000_5_XCUIElementTypeOther.png", 
+                    "iter_00000_step_00000_4_XCUIElementTypeOther.png", 
+                    "iter_00000_step_00000_3_XCUIElementTypeOther.png", 
+                    "iter_00000_step_00000_2_XCUIElementTypeOther.png", 
+                    "iter_00000_step_00000_24_XCUIElementTypeOther.png", 
+                    "iter_00000_step_00000_22_XCUIElementTypeOther.png", 
+                    "iter_00000_step_00000_20_XCUIElementTypeOther.png", 
+                    "iter_00000_step_00000_19_XCUIElementTypeOther.png", 
+                    "iter_00000_step_00000_18_XCUIElementTypeOther.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeOther", 
+                    "hash": "TOnQn/yE82toBuJ2DL7u4A==\n", 
+                    "height": 2436.0, 
+                    "human_hash": "XCUIElementTypeOther_X0.0_Y0.0_W1125.0_H2436.0", 
+                    "tag_name": "XCUIElementTypeOther", 
+                    "text": "", 
+                    "width": 1125.0, 
+                    "x": 0.0, 
+                    "y": 0.0
+                }, 
+                "tags": [
+                    "other", 
+                    "all_elems", 
+                    "xcuielementtypeother"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_90_XCUIElementTypeOther.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_90_XCUIElementTypeOther.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeOther", 
+                    "hash": "Akr2rqCGgrNClFzSRKNoUw==\n", 
+                    "height": 132.0, 
+                    "human_hash": "XCUIElementTypeOther_X0.0_Y264.0_W375.0_H132.0", 
+                    "tag_name": "XCUIElementTypeOther", 
+                    "text": "News", 
+                    "width": 375.0, 
+                    "x": 0.0, 
+                    "y": 264.0
+                }, 
+                "tags": [
+                    "other", 
+                    "all_elems", 
+                    "xcuielementtypeother"
+                ], 
+                "text": [
+                    "News"
+                ]
+            }, 
+            "iter_00000_step_00000_91_XCUIElementTypeStaticText.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_91_XCUIElementTypeStaticText.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeStaticText", 
+                    "hash": "la5glDvKoi7coJZFEG61EA==\n", 
+                    "height": 54.0, 
+                    "human_hash": "XCUIElementTypeStaticText_X129.0_Y303.0_W120.0_H54.0", 
+                    "tag_name": "XCUIElementTypeStaticText", 
+                    "text": "News", 
+                    "width": 120.0, 
+                    "x": 129.0, 
+                    "y": 303.0
+                }, 
+                "tags": [
+                    "xcuielementtypestatictext", 
+                    "all_elems", 
+                    "statictext"
+                ], 
+                "text": [
+                    "News"
+                ]
+            }, 
+            "iter_00000_step_00000_92_XCUIElementTypeOther.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_92_XCUIElementTypeOther.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeOther", 
+                    "hash": "iRJopgyVX1n8St4YF7FUvw==\n", 
+                    "height": 132.0, 
+                    "human_hash": "XCUIElementTypeOther_X375.0_Y264.0_W375.0_H132.0", 
+                    "tag_name": "XCUIElementTypeOther", 
+                    "text": "Home", 
+                    "width": 375.0, 
+                    "x": 375.0, 
+                    "y": 264.0
+                }, 
+                "tags": [
+                    "other", 
+                    "all_elems", 
+                    "xcuielementtypeother"
+                ], 
+                "text": [
+                    "Home"
+                ]
+            }, 
+            "iter_00000_step_00000_93_XCUIElementTypeStaticText.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_93_XCUIElementTypeStaticText.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeStaticText", 
+                    "hash": "RwrXjPa2BmeelrJrhQG0HA==\n", 
+                    "height": 54.0, 
+                    "human_hash": "XCUIElementTypeStaticText_X498.0_Y303.0_W129.0_H54.0", 
+                    "tag_name": "XCUIElementTypeStaticText", 
+                    "text": "Home", 
+                    "width": 129.0, 
+                    "x": 498.0, 
+                    "y": 303.0
+                }, 
+                "tags": [
+                    "xcuielementtypestatictext", 
+                    "all_elems", 
+                    "statictext"
+                ], 
+                "text": [
+                    "Home"
+                ]
+            }, 
+            "iter_00000_step_00000_94_XCUIElementTypeOther.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_94_XCUIElementTypeOther.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeOther", 
+                    "hash": "rX/m6LbYWaSjk13MgrjF9A==\n", 
+                    "height": 132.0, 
+                    "human_hash": "XCUIElementTypeOther_X750.0_Y264.0_W375.0_H132.0", 
+                    "tag_name": "XCUIElementTypeOther", 
+                    "text": "Popular", 
+                    "width": 375.0, 
+                    "x": 750.0, 
+                    "y": 264.0
+                }, 
+                "tags": [
+                    "other", 
+                    "all_elems", 
+                    "xcuielementtypeother"
+                ], 
+                "text": [
+                    "Popular"
+                ]
+            }, 
+            "iter_00000_step_00000_95_XCUIElementTypeStaticText.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_95_XCUIElementTypeStaticText.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeStaticText", 
+                    "hash": "N5ZMUw57xm02hHBOJo0BfA==\n", 
+                    "height": 54.0, 
+                    "human_hash": "XCUIElementTypeStaticText_X855.0_Y303.0_W165.0_H54.0", 
+                    "tag_name": "XCUIElementTypeStaticText", 
+                    "text": "Popular", 
+                    "width": 165.0, 
+                    "x": 855.0, 
+                    "y": 303.0
+                }, 
+                "tags": [
+                    "xcuielementtypestatictext", 
+                    "all_elems", 
+                    "statictext"
+                ], 
+                "text": [
+                    "Popular"
+                ]
+            }, 
+            "iter_00000_step_00000_96_XCUIElementTypeOther.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_96_XCUIElementTypeOther.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeOther", 
+                    "hash": "M2SHNtxLkh0yNx+Zd9ksGQ==\n", 
+                    "height": 6.0, 
+                    "human_hash": "XCUIElementTypeOther_X831.0_Y390.0_W213.0_H6.0", 
+                    "tag_name": "XCUIElementTypeOther", 
+                    "text": "", 
+                    "width": 213.0, 
+                    "x": 831.0, 
+                    "y": 390.0
+                }, 
+                "tags": [
+                    "other", 
+                    "all_elems", 
+                    "xcuielementtypeother"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_98_XCUIElementTypeOther.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00000_98_XCUIElementTypeOther.png", 
+                    "iter_00000_step_00000_97_XCUIElementTypeOther.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeOther", 
+                    "hash": "cmw5Ylx4KeqWA4NpNBpkiw==\n", 
+                    "height": 3.0, 
+                    "human_hash": "XCUIElementTypeOther_X0.0_Y393.0_W1125.0_H3.0", 
+                    "tag_name": "XCUIElementTypeOther", 
+                    "text": "", 
+                    "width": 1125.0, 
+                    "x": 0.0, 
+                    "y": 393.0
+                }, 
+                "tags": [
+                    "other", 
+                    "all_elems", 
+                    "xcuielementtypeother"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_99_XCUIElementTypeTabBar.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_99_XCUIElementTypeTabBar.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeTabBar", 
+                    "hash": "jxCL1ubPExLJEErCdakQSA==\n", 
+                    "height": 240.0, 
+                    "human_hash": "XCUIElementTypeTabBar_X0.0_Y2196.0_W1125.0_H240.0", 
+                    "tag_name": "XCUIElementTypeTabBar", 
+                    "text": "Tab Bar", 
+                    "width": 1125.0, 
+                    "x": 0.0, 
+                    "y": 2196.0
+                }, 
+                "tags": [
+                    "xcuielementtypetabbar", 
+                    "all_elems", 
+                    "tabbar"
+                ], 
+                "text": [
+                    "Tab_Bar"
+                ]
+            }, 
+            "iter_00000_step_00000_9_XCUIElementTypeNavigationBar.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_9_XCUIElementTypeNavigationBar.png"
+                ], 
+                "elem_info": {
+                    "class": "XCUIElementTypeNavigationBar", 
+                    "hash": "se+1/6u4/r/aZe5dZkwjsw==\n", 
+                    "height": 132.0, 
+                    "human_hash": "XCUIElementTypeNavigationBar_X0.0_Y132.0_W1125.0_H132.0", 
+                    "tag_name": "XCUIElementTypeNavigationBar", 
+                    "text": "", 
+                    "width": 1125.0, 
+                    "x": 0.0, 
+                    "y": 132.0
+                }, 
+                "tags": [
+                    "navigationbar", 
+                    "xcuielementtypenavigationbar", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }
+        }, 
+        "sorted_elems": [
+            "iter_00000_step_00000_8_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_0_XCUIElementTypeApplication.png", 
+            "iter_00000_step_00000_25_XCUIElementTypeCollectionView.png", 
+            "iter_00000_step_00000_1_XCUIElementTypeWindow.png", 
+            "iter_00000_step_00000_23_XCUIElementTypeScrollView.png", 
+            "iter_00000_step_00000_36_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_33_XCUIElementTypeCell.png", 
+            "iter_00000_step_00000_41_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_42_XCUIElementTypeCollectionView.png", 
+            "iter_00000_step_00000_21_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_99_XCUIElementTypeTabBar.png", 
+            "iter_00000_step_00000_85_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_61_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_9_XCUIElementTypeNavigationBar.png", 
+            "iter_00000_step_00000_26_XCUIElementTypeCell.png", 
+            "iter_00000_step_00000_88_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_28_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_89_XCUIElementTypeScrollView.png", 
+            "iter_00000_step_00000_37_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_48_XCUIElementTypeCell.png", 
+            "iter_00000_step_00000_43_XCUIElementTypeCell.png", 
+            "iter_00000_step_00000_51_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_46_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_12_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_86_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_74_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_13_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_15_XCUIElementTypeTextField.png", 
+            "iter_00000_step_00000_75_XCUIElementTypeStaticText.png", 
+            "iter_00000_step_00000_94_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_92_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_90_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_16_XCUIElementTypeStaticText.png", 
+            "iter_00000_step_00000_29_XCUIElementTypeButton.png", 
+            "iter_00000_step_00000_38_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_39_XCUIElementTypeButton.png", 
+            "iter_00000_step_00000_105_XCUIElementTypeButton.png", 
+            "iter_00000_step_00000_102_XCUIElementTypeButton.png", 
+            "iter_00000_step_00000_104_XCUIElementTypeButton.png", 
+            "iter_00000_step_00000_101_XCUIElementTypeButton.png", 
+            "iter_00000_step_00000_100_XCUIElementTypeButton.png", 
+            "iter_00000_step_00000_67_XCUIElementTypeScrollView.png", 
+            "iter_00000_step_00000_66_XCUIElementTypeStaticText.png", 
+            "iter_00000_step_00000_47_XCUIElementTypeStaticText.png", 
+            "iter_00000_step_00000_52_XCUIElementTypeStaticText.png", 
+            "iter_00000_step_00000_64_XCUIElementTypeButton.png", 
+            "iter_00000_step_00000_10_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_103_XCUIElementTypeButton.png", 
+            "iter_00000_step_00000_72_XCUIElementTypeStaticText.png", 
+            "iter_00000_step_00000_62_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_95_XCUIElementTypeStaticText.png", 
+            "iter_00000_step_00000_30_XCUIElementTypeStaticText.png", 
+            "iter_00000_step_00000_31_XCUIElementTypeButton.png", 
+            "iter_00000_step_00000_93_XCUIElementTypeStaticText.png", 
+            "iter_00000_step_00000_91_XCUIElementTypeStaticText.png", 
+            "iter_00000_step_00000_65_XCUIElementTypeButton.png", 
+            "iter_00000_step_00000_40_XCUIElementTypeButton.png", 
+            "iter_00000_step_00000_63_XCUIElementTypeStaticText.png", 
+            "iter_00000_step_00000_17_XCUIElementTypeButton.png", 
+            "iter_00000_step_00000_98_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_68_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_70_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_71_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_69_XCUIElementTypeOther.png", 
+            "iter_00000_step_00000_14_XCUIElementTypeImage.png", 
+            "iter_00000_step_00000_96_XCUIElementTypeOther.png"
+        ], 
+        "uniques_to_dupes": {
+            "iter_00000_step_00000_0_XCUIElementTypeApplication.png": [
+                "iter_00000_step_00000_0_XCUIElementTypeApplication.png"
+            ], 
+            "iter_00000_step_00000_100_XCUIElementTypeButton.png": [
+                "iter_00000_step_00000_100_XCUIElementTypeButton.png"
+            ], 
+            "iter_00000_step_00000_101_XCUIElementTypeButton.png": [
+                "iter_00000_step_00000_101_XCUIElementTypeButton.png"
+            ], 
+            "iter_00000_step_00000_102_XCUIElementTypeButton.png": [
+                "iter_00000_step_00000_102_XCUIElementTypeButton.png"
+            ], 
+            "iter_00000_step_00000_103_XCUIElementTypeButton.png": [
+                "iter_00000_step_00000_103_XCUIElementTypeButton.png"
+            ], 
+            "iter_00000_step_00000_104_XCUIElementTypeButton.png": [
+                "iter_00000_step_00000_104_XCUIElementTypeButton.png"
+            ], 
+            "iter_00000_step_00000_105_XCUIElementTypeButton.png": [
+                "iter_00000_step_00000_105_XCUIElementTypeButton.png"
+            ], 
+            "iter_00000_step_00000_10_XCUIElementTypeOther.png": [
+                "iter_00000_step_00000_10_XCUIElementTypeOther.png"
+            ], 
+            "iter_00000_step_00000_12_XCUIElementTypeOther.png": [
+                "iter_00000_step_00000_12_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_11_XCUIElementTypeOther.png"
+            ], 
+            "iter_00000_step_00000_13_XCUIElementTypeOther.png": [
+                "iter_00000_step_00000_13_XCUIElementTypeOther.png"
+            ], 
+            "iter_00000_step_00000_14_XCUIElementTypeImage.png": [
+                "iter_00000_step_00000_14_XCUIElementTypeImage.png"
+            ], 
+            "iter_00000_step_00000_15_XCUIElementTypeTextField.png": [
+                "iter_00000_step_00000_15_XCUIElementTypeTextField.png"
+            ], 
+            "iter_00000_step_00000_16_XCUIElementTypeStaticText.png": [
+                "iter_00000_step_00000_16_XCUIElementTypeStaticText.png"
+            ], 
+            "iter_00000_step_00000_17_XCUIElementTypeButton.png": [
+                "iter_00000_step_00000_17_XCUIElementTypeButton.png"
+            ], 
+            "iter_00000_step_00000_1_XCUIElementTypeWindow.png": [
+                "iter_00000_step_00000_1_XCUIElementTypeWindow.png"
+            ], 
+            "iter_00000_step_00000_21_XCUIElementTypeOther.png": [
+                "iter_00000_step_00000_21_XCUIElementTypeOther.png"
+            ], 
+            "iter_00000_step_00000_23_XCUIElementTypeScrollView.png": [
+                "iter_00000_step_00000_23_XCUIElementTypeScrollView.png"
+            ], 
+            "iter_00000_step_00000_25_XCUIElementTypeCollectionView.png": [
+                "iter_00000_step_00000_25_XCUIElementTypeCollectionView.png"
+            ], 
+            "iter_00000_step_00000_26_XCUIElementTypeCell.png": [
+                "iter_00000_step_00000_26_XCUIElementTypeCell.png"
+            ], 
+            "iter_00000_step_00000_28_XCUIElementTypeOther.png": [
+                "iter_00000_step_00000_28_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_27_XCUIElementTypeOther.png"
+            ], 
+            "iter_00000_step_00000_29_XCUIElementTypeButton.png": [
+                "iter_00000_step_00000_29_XCUIElementTypeButton.png"
+            ], 
+            "iter_00000_step_00000_30_XCUIElementTypeStaticText.png": [
+                "iter_00000_step_00000_30_XCUIElementTypeStaticText.png"
+            ], 
+            "iter_00000_step_00000_31_XCUIElementTypeButton.png": [
+                "iter_00000_step_00000_31_XCUIElementTypeButton.png"
+            ], 
+            "iter_00000_step_00000_33_XCUIElementTypeCell.png": [
+                "iter_00000_step_00000_33_XCUIElementTypeCell.png"
+            ], 
+            "iter_00000_step_00000_36_XCUIElementTypeOther.png": [
+                "iter_00000_step_00000_36_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_35_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_34_XCUIElementTypeOther.png"
+            ], 
+            "iter_00000_step_00000_37_XCUIElementTypeOther.png": [
+                "iter_00000_step_00000_37_XCUIElementTypeOther.png"
+            ], 
+            "iter_00000_step_00000_38_XCUIElementTypeOther.png": [
+                "iter_00000_step_00000_38_XCUIElementTypeOther.png"
+            ], 
+            "iter_00000_step_00000_39_XCUIElementTypeButton.png": [
+                "iter_00000_step_00000_39_XCUIElementTypeButton.png"
+            ], 
+            "iter_00000_step_00000_40_XCUIElementTypeButton.png": [
+                "iter_00000_step_00000_40_XCUIElementTypeButton.png"
+            ], 
+            "iter_00000_step_00000_41_XCUIElementTypeOther.png": [
+                "iter_00000_step_00000_41_XCUIElementTypeOther.png"
+            ], 
+            "iter_00000_step_00000_42_XCUIElementTypeCollectionView.png": [
+                "iter_00000_step_00000_42_XCUIElementTypeCollectionView.png"
+            ], 
+            "iter_00000_step_00000_43_XCUIElementTypeCell.png": [
+                "iter_00000_step_00000_43_XCUIElementTypeCell.png"
+            ], 
+            "iter_00000_step_00000_46_XCUIElementTypeOther.png": [
+                "iter_00000_step_00000_46_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_45_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_44_XCUIElementTypeOther.png"
+            ], 
+            "iter_00000_step_00000_47_XCUIElementTypeStaticText.png": [
+                "iter_00000_step_00000_47_XCUIElementTypeStaticText.png"
+            ], 
+            "iter_00000_step_00000_48_XCUIElementTypeCell.png": [
+                "iter_00000_step_00000_48_XCUIElementTypeCell.png"
+            ], 
+            "iter_00000_step_00000_51_XCUIElementTypeOther.png": [
+                "iter_00000_step_00000_51_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_50_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_49_XCUIElementTypeOther.png"
+            ], 
+            "iter_00000_step_00000_52_XCUIElementTypeStaticText.png": [
+                "iter_00000_step_00000_52_XCUIElementTypeStaticText.png"
+            ], 
+            "iter_00000_step_00000_61_XCUIElementTypeOther.png": [
+                "iter_00000_step_00000_61_XCUIElementTypeOther.png"
+            ], 
+            "iter_00000_step_00000_62_XCUIElementTypeOther.png": [
+                "iter_00000_step_00000_62_XCUIElementTypeOther.png"
+            ], 
+            "iter_00000_step_00000_63_XCUIElementTypeStaticText.png": [
+                "iter_00000_step_00000_63_XCUIElementTypeStaticText.png"
+            ], 
+            "iter_00000_step_00000_64_XCUIElementTypeButton.png": [
+                "iter_00000_step_00000_64_XCUIElementTypeButton.png"
+            ], 
+            "iter_00000_step_00000_65_XCUIElementTypeButton.png": [
+                "iter_00000_step_00000_65_XCUIElementTypeButton.png"
+            ], 
+            "iter_00000_step_00000_66_XCUIElementTypeStaticText.png": [
+                "iter_00000_step_00000_66_XCUIElementTypeStaticText.png"
+            ], 
+            "iter_00000_step_00000_67_XCUIElementTypeScrollView.png": [
+                "iter_00000_step_00000_67_XCUIElementTypeScrollView.png"
+            ], 
+            "iter_00000_step_00000_68_XCUIElementTypeOther.png": [
+                "iter_00000_step_00000_68_XCUIElementTypeOther.png"
+            ], 
+            "iter_00000_step_00000_69_XCUIElementTypeOther.png": [
+                "iter_00000_step_00000_69_XCUIElementTypeOther.png"
+            ], 
+            "iter_00000_step_00000_70_XCUIElementTypeOther.png": [
+                "iter_00000_step_00000_70_XCUIElementTypeOther.png"
+            ], 
+            "iter_00000_step_00000_71_XCUIElementTypeOther.png": [
+                "iter_00000_step_00000_71_XCUIElementTypeOther.png"
+            ], 
+            "iter_00000_step_00000_72_XCUIElementTypeStaticText.png": [
+                "iter_00000_step_00000_72_XCUIElementTypeStaticText.png"
+            ], 
+            "iter_00000_step_00000_74_XCUIElementTypeOther.png": [
+                "iter_00000_step_00000_74_XCUIElementTypeOther.png"
+            ], 
+            "iter_00000_step_00000_75_XCUIElementTypeStaticText.png": [
+                "iter_00000_step_00000_75_XCUIElementTypeStaticText.png"
+            ], 
+            "iter_00000_step_00000_85_XCUIElementTypeOther.png": [
+                "iter_00000_step_00000_85_XCUIElementTypeOther.png"
+            ], 
+            "iter_00000_step_00000_86_XCUIElementTypeOther.png": [
+                "iter_00000_step_00000_86_XCUIElementTypeOther.png"
+            ], 
+            "iter_00000_step_00000_88_XCUIElementTypeOther.png": [
+                "iter_00000_step_00000_88_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_87_XCUIElementTypeOther.png"
+            ], 
+            "iter_00000_step_00000_89_XCUIElementTypeScrollView.png": [
+                "iter_00000_step_00000_89_XCUIElementTypeScrollView.png"
+            ], 
+            "iter_00000_step_00000_8_XCUIElementTypeOther.png": [
+                "iter_00000_step_00000_8_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_7_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_6_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_5_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_4_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_3_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_2_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_24_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_22_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_20_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_19_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_18_XCUIElementTypeOther.png"
+            ], 
+            "iter_00000_step_00000_90_XCUIElementTypeOther.png": [
+                "iter_00000_step_00000_90_XCUIElementTypeOther.png"
+            ], 
+            "iter_00000_step_00000_91_XCUIElementTypeStaticText.png": [
+                "iter_00000_step_00000_91_XCUIElementTypeStaticText.png"
+            ], 
+            "iter_00000_step_00000_92_XCUIElementTypeOther.png": [
+                "iter_00000_step_00000_92_XCUIElementTypeOther.png"
+            ], 
+            "iter_00000_step_00000_93_XCUIElementTypeStaticText.png": [
+                "iter_00000_step_00000_93_XCUIElementTypeStaticText.png"
+            ], 
+            "iter_00000_step_00000_94_XCUIElementTypeOther.png": [
+                "iter_00000_step_00000_94_XCUIElementTypeOther.png"
+            ], 
+            "iter_00000_step_00000_95_XCUIElementTypeStaticText.png": [
+                "iter_00000_step_00000_95_XCUIElementTypeStaticText.png"
+            ], 
+            "iter_00000_step_00000_96_XCUIElementTypeOther.png": [
+                "iter_00000_step_00000_96_XCUIElementTypeOther.png"
+            ], 
+            "iter_00000_step_00000_98_XCUIElementTypeOther.png": [
+                "iter_00000_step_00000_98_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_97_XCUIElementTypeOther.png"
+            ], 
+            "iter_00000_step_00000_99_XCUIElementTypeTabBar.png": [
+                "iter_00000_step_00000_99_XCUIElementTypeTabBar.png"
+            ], 
+            "iter_00000_step_00000_9_XCUIElementTypeNavigationBar.png": [
+                "iter_00000_step_00000_9_XCUIElementTypeNavigationBar.png"
+            ]
+        }
+    }, 
+    "screens": {
+        "dupe_to_master_key": {
+            "iter_00000_step_00000_screenshot.png": "iter_00000_step_00000_screenshot.png"
+        }, 
+        "screens_to_elems": {
+            "iter_00000_step_00000_screenshot.png": [
+                "iter_00000_step_00000_0_XCUIElementTypeApplication.png", 
+                "iter_00000_step_00000_1_XCUIElementTypeWindow.png", 
+                "iter_00000_step_00000_8_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_8_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_8_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_8_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_8_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_8_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_8_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_9_XCUIElementTypeNavigationBar.png", 
+                "iter_00000_step_00000_10_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_12_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_12_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_13_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_14_XCUIElementTypeImage.png", 
+                "iter_00000_step_00000_15_XCUIElementTypeTextField.png", 
+                "iter_00000_step_00000_16_XCUIElementTypeStaticText.png", 
+                "iter_00000_step_00000_17_XCUIElementTypeButton.png", 
+                "iter_00000_step_00000_8_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_8_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_8_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_21_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_8_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_23_XCUIElementTypeScrollView.png", 
+                "iter_00000_step_00000_8_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_25_XCUIElementTypeCollectionView.png", 
+                "iter_00000_step_00000_26_XCUIElementTypeCell.png", 
+                "iter_00000_step_00000_28_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_28_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_29_XCUIElementTypeButton.png", 
+                "iter_00000_step_00000_30_XCUIElementTypeStaticText.png", 
+                "iter_00000_step_00000_31_XCUIElementTypeButton.png", 
+                "iter_00000_step_00000_33_XCUIElementTypeCell.png", 
+                "iter_00000_step_00000_36_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_36_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_36_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_37_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_38_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_39_XCUIElementTypeButton.png", 
+                "iter_00000_step_00000_40_XCUIElementTypeButton.png", 
+                "iter_00000_step_00000_41_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_42_XCUIElementTypeCollectionView.png", 
+                "iter_00000_step_00000_43_XCUIElementTypeCell.png", 
+                "iter_00000_step_00000_46_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_46_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_46_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_47_XCUIElementTypeStaticText.png", 
+                "iter_00000_step_00000_48_XCUIElementTypeCell.png", 
+                "iter_00000_step_00000_51_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_51_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_51_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_52_XCUIElementTypeStaticText.png", 
+                "iter_00000_step_00000_61_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_62_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_63_XCUIElementTypeStaticText.png", 
+                "iter_00000_step_00000_64_XCUIElementTypeButton.png", 
+                "iter_00000_step_00000_65_XCUIElementTypeButton.png", 
+                "iter_00000_step_00000_66_XCUIElementTypeStaticText.png", 
+                "iter_00000_step_00000_67_XCUIElementTypeScrollView.png", 
+                "iter_00000_step_00000_68_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_69_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_70_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_71_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_72_XCUIElementTypeStaticText.png", 
+                "iter_00000_step_00000_74_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_75_XCUIElementTypeStaticText.png", 
+                "iter_00000_step_00000_85_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_86_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_88_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_88_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_89_XCUIElementTypeScrollView.png", 
+                "iter_00000_step_00000_90_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_91_XCUIElementTypeStaticText.png", 
+                "iter_00000_step_00000_92_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_93_XCUIElementTypeStaticText.png", 
+                "iter_00000_step_00000_94_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_95_XCUIElementTypeStaticText.png", 
+                "iter_00000_step_00000_96_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_98_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_98_XCUIElementTypeOther.png", 
+                "iter_00000_step_00000_99_XCUIElementTypeTabBar.png", 
+                "iter_00000_step_00000_100_XCUIElementTypeButton.png", 
+                "iter_00000_step_00000_101_XCUIElementTypeButton.png", 
+                "iter_00000_step_00000_102_XCUIElementTypeButton.png", 
+                "iter_00000_step_00000_103_XCUIElementTypeButton.png", 
+                "iter_00000_step_00000_104_XCUIElementTypeButton.png", 
+                "iter_00000_step_00000_105_XCUIElementTypeButton.png"
+            ]
+        }, 
+        "screens_to_infos": {
+            "iter_00000_step_00000_screenshot.png": {
+                "dupe_count": [
+                    1
+                ], 
+                "dupes": [
+                    "iter_00000_step_00000_screenshot.png"
+                ], 
+                "tags": [
+                    "image", 
+                    "scrollview", 
+                    "xcuielementtypeapplication", 
+                    "tabbar", 
+                    "navigationbar", 
+                    "xcuielementtypewindow", 
+                    "xcuielementtypeother", 
+                    "collectionview", 
+                    "window", 
+                    "cell", 
+                    "application", 
+                    "xcuielementtypetextfield", 
+                    "other", 
+                    "all_screens", 
+                    "xcuielementtypescrollview", 
+                    "statictext", 
+                    "xcuielementtypeimage", 
+                    "textfield", 
+                    "xcuielementtypebutton", 
+                    "xcuielementtypestatictext", 
+                    "xcuielementtypecell", 
+                    "button", 
+                    "xcuielementtypecollectionview", 
+                    "xcuielementtypetabbar", 
+                    "xcuielementtypenavigationbar"
+                ], 
+                "text": [
+                    "", 
+                    "tab_bar", 
+                    "108_awards", 
+                    "chat", 
+                    "share", 
+                    "user_profile_drawer", 
+                    "inbox", 
+                    "it_took_103_years,_but_i_did_it!!!", 
+                    "home", 
+                    "u/story_mountain__4h__i.redd.it", 
+                    "browse", 
+                    "create", 
+                    "coin_24", 
+                    "1", 
+                    "543", 
+                    "0%", 
+                    "palestine", 
+                    "ufos", 
+                    "reddit", 
+                    "hot_posts", 
+                    "__trending_today", 
+                    "bill_gates", 
+                    "r/pics", 
+                    "news", 
+                    "search", 
+                    "join", 
+                    "41.8k", 
+                    "popular", 
+                    "feed_display_mode"
+                ]
+            }
+        }, 
+        "sorted_screens": [
+            "iter_00000_step_00000_screenshot.png"
+        ], 
+        "uniques_to_dupes": {
+            "iter_00000_step_00000_screenshot.png": [
+                "iter_00000_step_00000_screenshot.png"
+            ]
+        }
+    }
+}
